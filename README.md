@@ -19,15 +19,6 @@ The pipeline is designed in two stages. Stage 1 isolates candidate number-sensit
 
 All tables and figures from the thesis are produced inside these notebooks.
 
-## Summary of results
-
-- **Compact causal feature sets.** After statistical and causal filtering, only 8–35 SAE features per language–layer setting (out of 16,384) are left. Ablating them leads to a statistically significant decline in agreement preferences on MultiBLiMP, far beyond matched random baselines.
-- **Layer profile.** Effects of ablating the earliest layer (7) is weak or null. The strongest in-language effects are found in the middle and later layers – 17 for English and layer 22 for German and Spanish.
-- **Specificity.** Ablation of the discovered feature sets harms number agreement most, but also affects SyntaxGym reflexive binding and partly subordination. Other syntactic categories (filler-gap, center embedding, garden-path, cleft, NPI) remain stable. The discovered features seem to support broad number-related morphosyntactic competence rather than just agreement.
-- **Directional structure.** Plural-preferring features show strong, consistent matched effects across all three languages. Singular-preferring features have weaker, more uneven effects. They often reduce log-probability gaps without flipping binary accuracy.
-- **Cross-lingual reuse.** Feature overlap and causal transfer across languages can be described as partial and asymmetric. Exact overlap is limited in early layers and larger in later ones, with the largest cross-lingual Jaccard between German and Spanish. Causal effects of ablating transferred features are strongest in layers 17 and 22. Features discovered in German or Spanish transfer to English more strongly than vice versa.
-- **Qualitative profile.** Cross-lingually shared features are not purely agreement features. They combine number with broader semantic or discourse regularities (e.g., collective human-group reference, salient singular discourse referents, non-English plural / distributive predication). Insterestingly, their promoted / suppressed tokens (by logits) extend to other languages, beyond the three used in the discovery step.
-
 ## Datasets
 
 - **MultiBLiMP 1.0** (subject–verb number agreement, SV word order, English, German, Spanish): Used for competence evaluation and all causal ablation experiments. Source: [Jumelet et al. 2025](https://arxiv.org/abs/2504.02768).
@@ -48,6 +39,15 @@ uv sync
 The project uses `uv` and the dependencies pinned in `pyproject.toml` / `uv.lock`. Feature discovery and causal screening were run on a single NVIDIA L4 (Google Colab); the 12B competence evaluation used an A100.
 
 A `.env` file with `HF_TOKEN` is required to download Gemma 3 and Gemma Scope 2 from Hugging Face. Access to Gemma weights must be requested separately on the Hugging Face model page.
+
+## Summary of results
+
+- **Compact causal feature sets.** After statistical and causal filtering, only 8–35 SAE features per language–layer setting (out of 16,384) are left. Ablating them leads to a statistically significant decline in agreement preferences on MultiBLiMP, far beyond matched random baselines.
+- **Layer profile.** Effects of ablating the earliest layer (7) is weak or null. The strongest in-language effects are found in the middle and later layers – 17 for English and layer 22 for German and Spanish.
+- **Specificity.** Ablation of the discovered feature sets harms number agreement most, but also affects SyntaxGym reflexive binding and partly subordination. Other syntactic categories (filler-gap, center embedding, garden-path, cleft, NPI) remain stable. The discovered features seem to support broad number-related morphosyntactic competence rather than just agreement.
+- **Directional structure.** Plural-preferring features show strong, consistent matched effects across all three languages. Singular-preferring features have weaker, more uneven effects. They often reduce log-probability gaps without flipping binary accuracy.
+- **Cross-lingual reuse.** Feature overlap and causal transfer across languages can be described as partial and asymmetric. Exact overlap is limited in early layers and larger in later ones, with the largest cross-lingual Jaccard between German and Spanish. Causal effects of ablating transferred features are strongest in layers 17 and 22. Features discovered in German or Spanish transfer to English more strongly than vice versa.
+- **Qualitative profile.** Cross-lingually shared features are not purely agreement features. They combine number with broader semantic or discourse regularities (e.g., collective human-group reference, salient singular discourse referents, non-English plural / distributive predication). Insterestingly, their promoted / suppressed tokens (by logits) extend to other languages, beyond the three used in the discovery step.
 
 ## Citation
 
