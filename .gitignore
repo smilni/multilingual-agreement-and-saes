@@ -16,3 +16,5 @@ results/
 uv.lock
 scripts/list_saes.py
 scripts/validate_sae_hooksite.py
+.DS_Store
+**/.DS_Store
