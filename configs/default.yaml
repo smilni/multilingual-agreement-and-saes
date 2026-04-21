@@ -1,0 +1,48 @@
+languages:
+  - code: eng
+    name: English
+  - code: deu
+    name: German
+  - code: spa
+    name: Spanish
+
+models:
+  gemma-3-270m:
+    hf_id: google/gemma-3-270m
+    num_layers: 18
+    scan_layers: []
+  gemma-3-1b:
+    hf_id: google/gemma-3-1b-pt
+    num_layers: 26
+    scan_layers: [7, 13, 17, 22]
+  gemma-3-4b:
+    hf_id: google/gemma-3-4b-pt
+    num_layers: None
+    scan_layers: []
+  gemma-3-12b:
+    hf_id: google/gemma-3-12b-pt
+    num_layers: None
+    scan_layers: []
+
+sae:
+  # Repo: google/gemma-scope-2-{size}-pt; use resid_post_all for full-layer scans.
+  site: resid_post
+  # Explicit SAELens release alias (avoids implicit site->suffix mapping).
+  release_alias: res
+  # Optional: map shorthand widths to folder names (e.g. 256k -> 262k).
+  width_folder_names:
+    "256k": "262k"
+  widths: [16k]
+  l0: medium
+  default_width: 16k
+
+competence:
+  min_accuracy: 0.95
+
+feature_discovery:
+  activation_diff_percentile: 75
+  min_frc_score: 0.5
+  top_k_features: 20
+
+ablation:
+  num_random_baselines: 10

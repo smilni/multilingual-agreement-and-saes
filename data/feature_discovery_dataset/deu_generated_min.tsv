@@ -1,0 +1,141 @@
+pair_id	language	target_number	good_prefix	bad_prefix	continuation	source_idx	distance	has_attractor	template_id	phenomenon_family
+deu_0000	deu	PL	Die Ärzte	Der Arzt	untersuchen den Patienten.	0	1	0	simple_np	SV-#
+deu_0000	deu	SG	Der Arzt	Die Ärzte	untersucht den Patienten.	0	1	0	simple_np	SV-#
+deu_0001	deu	PL	Studentinnen	Eine Studentin	lesen das Kapitel.	1	1	0	simple_np	SV-#
+deu_0001	deu	SG	Eine Studentin	Studentinnen	liest das Kapitel.	1	1	0	simple_np	SV-#
+deu_0002	deu	PL	Diese Vereine	Dieser Verein	organisieren ein Konzert.	2	1	0	simple_np	SV-#
+deu_0002	deu	SG	Dieser Verein	Diese Vereine	organisiert ein Konzert.	2	1	0	simple_np	SV-#
+deu_0003	deu	PL	Meine Brüder	Mein Bruder	kochen heute Abend.	3	1	0	simple_np	SV-#
+deu_0003	deu	SG	Mein Bruder	Meine Brüder	kocht heute Abend.	3	1	0	simple_np	SV-#
+deu_0004	deu	PL	Die Schiffe	Das Schiff	legen morgen ab.	4	1	0	simple_np	SV-#
+deu_0004	deu	SG	Das Schiff	Die Schiffe	legt morgen ab.	4	1	0	simple_np	SV-#
+deu_0005	deu	PL	Ihre Firmen	Ihre Firma	kündigen die Kooperation.	5	1	0	simple_np	SV-#
+deu_0005	deu	SG	Ihre Firma	Ihre Firmen	kündigt die Kooperation.	5	1	0	simple_np	SV-#
+deu_0006	deu	PL	Hunde	Ein Hund	jaulen laut.	6	1	0	simple_np	SV-#
+deu_0006	deu	SG	Ein Hund	Hunde	jault laut.	6	1	0	simple_np	SV-#
+deu_0007	deu	PL	Diese Studien	Diese Studie	zeigen neue Ergebnisse.	7	1	0	simple_np	SV-#
+deu_0007	deu	SG	Diese Studie	Diese Studien	zeigt neue Ergebnisse.	7	1	0	simple_np	SV-#
+deu_0008	deu	PL	Die Bücher	Das Buch	enthalten viele Illustrationen.	8	1	0	simple_np	SV-#
+deu_0008	deu	SG	Das Buch	Die Bücher	enthält viele Illustrationen.	8	1	0	simple_np	SV-#
+deu_0009	deu	PL	Manche Politiker	Mancher Politiker	versprechen Veränderungen.	9	1	0	simple_np	SV-#
+deu_0009	deu	SG	Mancher Politiker	Manche Politiker	verspricht Veränderungen.	9	1	0	simple_np	SV-#
+deu_0010	deu	PL	Die kleinen Vögel	Der kleine Vogel	singen jetzt im Garten.	10	2	0	adj_np	SV-#
+deu_0010	deu	SG	Der kleine Vogel	Die kleinen Vögel	singt jetzt im Garten.	10	2	0	adj_np	SV-#
+deu_0011	deu	PL	Zwei alte Lampen	Eine alte Lampe	stehen auf dem Regal.	11	2	0	adj_np	SV-#
+deu_0011	deu	SG	Eine alte Lampe	Zwei alte Lampen	steht auf dem Regal.	11	2	0	adj_np	SV-#
+deu_0012	deu	PL	Diese roten Blumen	Diese rote Blume	blühen im Frühbeet.	12	2	0	adj_np	SV-#
+deu_0012	deu	SG	Diese rote Blume	Diese roten Blumen	blüht im Frühbeet.	12	2	0	adj_np	SV-#
+deu_0013	deu	PL	Meine klugen Studenten	Mein kluger Student	antworten sofort.	13	2	0	adj_np	SV-#
+deu_0013	deu	SG	Mein kluger Student	Meine klugen Studenten	antwortet sofort.	13	2	0	adj_np	SV-#
+deu_0014	deu	PL	Die neuen Autos	Das neue Auto	fahren leise.	14	2	0	adj_np	SV-#
+deu_0014	deu	SG	Das neue Auto	Die neuen Autos	fährt leise.	14	2	0	adj_np	SV-#
+deu_0015	deu	PL	Die jungen Bären	Der junge Bär	schlafen unter dem Baum.	15	2	0	adj_np	SV-#
+deu_0015	deu	SG	Der junge Bär	Die jungen Bären	schläft unter dem Baum.	15	2	0	adj_np	SV-#
+deu_0016	deu	PL	Mehrere schwere Bücher	Ein schweres Buch	liegen auf dem Tisch.	16	2	0	adj_np	SV-#
+deu_0016	deu	SG	Ein schweres Buch	Mehrere schwere Bücher	liegt auf dem Tisch.	16	2	0	adj_np	SV-#
+deu_0017	deu	PL	Die präzisen Uhren	Die präzise Uhr	zeigen die richtige Zeit an.	17	2	0	adj_np	SV-#
+deu_0017	deu	SG	Die präzise Uhr	Die präzisen Uhren	zeigt die richtige Zeit an.	17	2	0	adj_np	SV-#
+deu_0018	deu	PL	Ihre alten Briefe	Ihr alter Brief	liegen in der Schublade.	18	2	0	adj_np	SV-#
+deu_0018	deu	SG	Ihr alter Brief	Ihre alten Briefe	liegt in der Schublade.	18	2	0	adj_np	SV-#
+deu_0019	deu	PL	Die grünen Inseln	Die grüne Insel	liegen im See.	19	2	0	adj_np	SV-#
+deu_0019	deu	SG	Die grüne Insel	Die grünen Inseln	liegt im See.	19	2	0	adj_np	SV-#
+deu_0020	deu	PL	Die erfahrenen Ärzte	Der erfahrene Arzt	untersuchen die Wunde sorgfältig.	20	4	0	long_subject_no_attractor	SV-#
+deu_0020	deu	SG	Der erfahrene Arzt	Die erfahrenen Ärzte	untersucht die Wunde sorgfältig.	20	4	0	long_subject_no_attractor	SV-#
+deu_0021	deu	PL	Seine fleißigen Studenten	Sein fleißiger Student	diskutieren die These im Seminar.	21	4	0	long_subject_no_attractor	SV-#
+deu_0021	deu	SG	Sein fleißiger Student	Seine fleißigen Studenten	diskutiert die These im Seminar.	21	4	0	long_subject_no_attractor	SV-#
+deu_0022	deu	PL	Die aufmerksam bellenden Hunde	Der aufmerksam bellende Hund	jagen die Katze im Garten.	22	4	0	long_subject_no_attractor	SV-#
+deu_0022	deu	SG	Der aufmerksam bellende Hund	Die aufmerksam bellenden Hunde	jagt die Katze im Garten.	22	4	0	long_subject_no_attractor	SV-#
+deu_0023	deu	PL	Zwei moderne Computer	Ein moderner Computer	starten das Programm automatisch.	23	4	0	long_subject_no_attractor	SV-#
+deu_0023	deu	SG	Ein moderner Computer	Zwei moderne Computer	startet das Programm automatisch.	23	4	0	long_subject_no_attractor	SV-#
+deu_0024	deu	PL	Diese renommierten Universitäten	Diese renommierte Universität	planen ein neues Forschungsprojekt.	24	4	0	long_subject_no_attractor	SV-#
+deu_0024	deu	SG	Diese renommierte Universität	Diese renommierten Universitäten	plant ein neues Forschungsprojekt.	24	4	0	long_subject_no_attractor	SV-#
+deu_0025	deu	PL	Die tiefen Seen	Der tiefe See	spiegeln das Licht des Himmels.	25	4	0	long_subject_no_attractor	SV-#
+deu_0025	deu	SG	Der tiefe See	Die tiefen Seen	spiegelt das Licht des Himmels.	25	4	0	long_subject_no_attractor	SV-#
+deu_0026	deu	PL	Die wichtigen Dokumente	Das wichtige Dokument	enthalten vertrauliche Informationen.	26	4	0	long_subject_no_attractor	SV-#
+deu_0026	deu	SG	Das wichtige Dokument	Die wichtigen Dokumente	enthält vertrauliche Informationen.	26	4	0	long_subject_no_attractor	SV-#
+deu_0027	deu	PL	Neue Ideen	Eine neue Idee	überzeugen die Jury schnell.	27	4	0	long_subject_no_attractor	SV-#
+deu_0027	deu	SG	Eine neue Idee	Neue Ideen	überzeugt die Jury schnell.	27	4	0	long_subject_no_attractor	SV-#
+deu_0028	deu	PL	Ihre kleinen Firmen	Ihre kleine Firma	liefern die Bestellung morgen.	28	4	0	long_subject_no_attractor	SV-#
+deu_0028	deu	SG	Ihre kleine Firma	Ihre kleinen Firmen	liefert die Bestellung morgen.	28	4	0	long_subject_no_attractor	SV-#
+deu_0029	deu	PL	Die roten Autos	Das rote Auto	bremsen abrupt vor der Kreuzung.	29	4	0	long_subject_no_attractor	SV-#
+deu_0029	deu	SG	Das rote Auto	Die roten Autos	bremst abrupt vor der Kreuzung.	29	4	0	long_subject_no_attractor	SV-#
+deu_0030	deu	PL	Die Lehrer mit den Büchern	Der Lehrer mit den Büchern	kommen pünktlich in die Klasse.	30	4	1	pp_attractor	SV-#
+deu_0030	deu	SG	Der Lehrer mit den Büchern	Die Lehrer mit den Büchern	kommt pünktlich in die Klasse.	30	4	1	pp_attractor	SV-#
+deu_0031	deu	PL	Ärztinnen neben dem Krankenhaus	Eine Ärztin neben dem Krankenhaus	suchen die Patienten.	31	4	1	pp_attractor	SV-#
+deu_0031	deu	SG	Eine Ärztin neben dem Krankenhaus	Ärztinnen neben dem Krankenhaus	sucht den Patienten.	31	4	1	pp_attractor	SV-#
+deu_0032	deu	PL	Die Bilder auf dem Regal	Das Bild auf dem Regal	hängen schief an der Wand.	32	4	1	pp_attractor	SV-#
+deu_0032	deu	SG	Das Bild auf dem Regal	Die Bilder auf dem Regal	häng t schief an der Wand.	32	4	1	pp_attractor	SV-#
+deu_0033	deu	PL	Meine Freunde unter den Bäumen	Mein Freund unter den Bäumen	lesen gerade ein Buch.	33	4	1	pp_attractor	SV-#
+deu_0033	deu	SG	Mein Freund unter den Bäumen	Meine Freunde unter den Bäumen	liest gerade ein Buch.	33	4	1	pp_attractor	SV-#
+deu_0034	deu	PL	Diese Unternehmen mit mehreren Filialen	Dieses Unternehmen mit mehreren Filialen	erhalten heute Besuch.	34	4	1	pp_attractor	SV-#
+deu_0034	deu	SG	Dieses Unternehmen mit mehreren Filialen	Diese Unternehmen mit mehreren Filialen	erhält heute Besuch.	34	4	1	pp_attractor	SV-#
+deu_0035	deu	PL	Die Hunde neben dem Auto	Der Hund neben dem Auto	bellen laut.	35	4	1	pp_attractor	SV-#
+deu_0035	deu	SG	Der Hund neben dem Auto	Die Hunde neben dem Auto	bellt laut.	35	4	1	pp_attractor	SV-#
+deu_0036	deu	PL	Bäume hinter dem Haus	Ein Baum hinter dem Haus	werfen viel Schatten.	36	4	1	pp_attractor	SV-#
+deu_0036	deu	SG	Ein Baum hinter dem Haus	Bäume hinter dem Haus	wirft viel Schatten.	36	4	1	pp_attractor	SV-#
+deu_0037	deu	PL	Die Bibliotheken mit den alten Katalogen	Die Bibliothek mit dem alten Katalog	öffnen morgen früh.	37	4	1	pp_attractor	SV-#
+deu_0037	deu	SG	Die Bibliothek mit dem alten Katalog	Die Bibliotheken mit den alten Katalogen	öffnet morgen früh.	37	4	1	pp_attractor	SV-#
+deu_0038	deu	PL	Diese Studien über die Teilnehmer	Diese Studie über den Teilnehmer	zeigen überraschende Ergebnisse.	38	4	1	pp_attractor	SV-#
+deu_0038	deu	SG	Diese Studie über den Teilnehmer	Diese Studien über die Teilnehmer	zeigt überraschende Ergebnisse.	38	4	1	pp_attractor	SV-#
+deu_0039	deu	PL	Unsere Autos neben dem Fahrradständer	Unser Auto neben dem Fahrradständer	stehen seit gestern dort.	39	4	1	pp_attractor	SV-#
+deu_0039	deu	SG	Unser Auto neben dem Fahrradständer	Unsere Autos neben dem Fahrradständer	steht seit gestern dort.	39	4	1	pp_attractor	SV-#
+deu_0040	deu	PL	Die Professoren	Der Professor	haben das Experiment gestern erfolgreich abgeschlossen	40	3	0	aux_or_modal	SV-#
+deu_0040	deu	SG	Der Professor	Die Professoren	hat das Experiment gestern erfolgreich abgeschlossen	40	3	0	aux_or_modal	SV-#
+deu_0041	deu	PL	Die Katzen auf dem Sofa	Die Katze auf dem Sofa	sind in der Sonne eingeschlafen	41	3	0	aux_or_modal	SV-#
+deu_0041	deu	SG	Die Katze auf dem Sofa	Die Katzen auf dem Sofa	ist in der Sonne eingeschlafen	41	3	0	aux_or_modal	SV-#
+deu_0042	deu	PL	Die Komitees	Das Komitee	werden den Bericht nächste Woche vorlegen	42	3	0	aux_or_modal	SV-#
+deu_0042	deu	SG	Das Komitee	Die Komitees	wird den Bericht nächste Woche vorlegen	42	3	0	aux_or_modal	SV-#
+deu_0043	deu	PL	Mehrere Ingenieure aus Berlin	Ein Ingenieur aus Berlin	können die Anlage allein reparieren	43	3	0	aux_or_modal	SV-#
+deu_0043	deu	SG	Ein Ingenieur aus Berlin	Mehrere Ingenieure aus Berlin	kann die Anlage allein reparieren	43	3	0	aux_or_modal	SV-#
+deu_0044	deu	PL	Diese Dokumente	Dieses Dokument	sollen bis Freitag unterschrieben werden	44	3	0	aux_or_modal	SV-#
+deu_0044	deu	SG	Dieses Dokument	Diese Dokumente	soll bis Freitag unterschrieben werden	44	3	0	aux_or_modal	SV-#
+deu_0045	deu	PL	Meine Brüder	Mein Bruder	dürfen das Auto heute benutzen	45	3	0	aux_or_modal	SV-#
+deu_0045	deu	SG	Mein Bruder	Meine Brüder	darf das Auto heute benutzen	45	3	0	aux_or_modal	SV-#
+deu_0046	deu	PL	Die Bibliotheken	Die Bibliothek	müssen die alten Bücher inventarisiert haben	46	3	0	aux_or_modal	SV-#
+deu_0046	deu	SG	Die Bibliothek	Die Bibliotheken	muss die alten Bücher inventarisiert haben	46	3	0	aux_or_modal	SV-#
+deu_0047	deu	PL	Einige Einheiten der Roboter	Eine Einheit des Roboters	mögen diese Software nicht verwenden	47	3	0	aux_or_modal	SV-#
+deu_0047	deu	SG	Eine Einheit des Roboters	Einige Einheiten der Roboter	mag diese Software nicht verwenden	47	3	0	aux_or_modal	SV-#
+deu_0048	deu	PL	Die Minister	Der Minister	wollen die neue Regelung vorstellen	48	3	0	aux_or_modal	SV-#
+deu_0048	deu	SG	Der Minister	Die Minister	will die neue Regelung vorstellen	48	3	0	aux_or_modal	SV-#
+deu_0049	deu	PL	Die Jurys	Die Jury	möchten die Kandidaten sofort hören	49	3	0	aux_or_modal	SV-#
+deu_0049	deu	SG	Die Jury	Die Jurys	möchte den Kandidaten sofort hören	49	3	0	aux_or_modal	SV-#
+deu_0050	deu	PL	Die Kinder im roten Mantel	Das Kind im roten Mantel	lächeln in die Kamera.	50	2	0	irregular_plural	SV-#
+deu_0050	deu	SG	Das Kind im roten Mantel	Die Kinder im roten Mantel	lächelt in die Kamera.	50	2	0	irregular_plural	SV-#
+deu_0051	deu	PL	Mäuse aus dem Keller	Eine Maus aus dem Keller	verstecken sich unter dem Schrank.	51	2	0	irregular_plural	SV-#
+deu_0051	deu	SG	Eine Maus aus dem Keller	Mäuse aus dem Keller	versteckt sich unter dem Schrank.	51	2	0	irregular_plural	SV-#
+deu_0052	deu	PL	Seine Bücher auf dem Tisch	Sein Buch auf dem Tisch	liegen noch offen.	52	2	0	irregular_plural	SV-#
+deu_0052	deu	SG	Sein Buch auf dem Tisch	Seine Bücher auf dem Tisch	liegt noch offen.	52	2	0	irregular_plural	SV-#
+deu_0053	deu	PL	Die Lehrer der Klasse	Der Lehrer der Klasse	erklären die Aufgabe.	53	2	0	irregular_plural	SV-#
+deu_0053	deu	SG	Der Lehrer der Klasse	Die Lehrer der Klasse	erklärt die Aufgabe.	53	2	0	irregular_plural	SV-#
+deu_0054	deu	PL	Diese Kinder mit den Hüten	Dieses Kind mit dem Hut	tanzen laut zur Musik.	54	2	0	irregular_plural	SV-#
+deu_0054	deu	SG	Dieses Kind mit dem Hut	Diese Kinder mit den Hüten	tanzt laut zur Musik.	54	2	0	irregular_plural	SV-#
+deu_0055	deu	PL	Meine Freunde aus Berlin	Mein Freund aus Berlin	kommen morgen zu Besuch.	55	2	0	irregular_plural	SV-#
+deu_0055	deu	SG	Mein Freund aus Berlin	Meine Freunde aus Berlin	kommt morgen zu Besuch.	55	2	0	irregular_plural	SV-#
+deu_0056	deu	PL	Die Wörter im Lexikon	Das Wort im Lexikon	sind schwer auszusprechen.	56	2	0	irregular_plural	SV-#
+deu_0056	deu	SG	Das Wort im Lexikon	Die Wörter im Lexikon	ist schwer auszusprechen.	56	2	0	irregular_plural	SV-#
+deu_0057	deu	PL	Vögel auf dem Balkon	Ein Vogel auf dem Balkon	singen seit dem Morgen.	57	2	0	irregular_plural	SV-#
+deu_0057	deu	SG	Ein Vogel auf dem Balkon	Vögel auf dem Balkon	singt seit dem Morgen.	57	2	0	irregular_plural	SV-#
+deu_0058	deu	PL	Die Städte am Fluss	Die Stadt am Fluss	wachsen schnell.	58	2	0	irregular_plural	SV-#
+deu_0058	deu	SG	Die Stadt am Fluss	Die Städte am Fluss	wächst schnell.	58	2	0	irregular_plural	SV-#
+deu_0059	deu	PL	Alle Bücher in der Box	Jedes Buch in der Box	enthalten Notizen.	59	2	0	irregular_plural	SV-#
+deu_0059	deu	SG	Jedes Buch in der Box	Alle Bücher in der Box	enthält Notizen.	59	2	0	irregular_plural	SV-#
+deu_0060	deu	PL	Die Studenten, die im Wohnheim nebenan eine Band gründeten	Der Student, der im Wohnheim nebenan eine Band gründete	haben gestern das Abschlusskonzert gegeben.	60	5	1	relative_clause_subject	SV-#
+deu_0060	deu	SG	Der Student, der im Wohnheim nebenan eine Band gründete	Die Studenten, die im Wohnheim nebenan eine Band gründeten	hat gestern das Abschlusskonzert gegeben.	60	5	1	relative_clause_subject	SV-#
+deu_0061	deu	PL	Journalistinnen, die den Minister während der Konferenz interviewten	Eine Journalistin, die den Minister während der Konferenz interviewte	berichten heute ausführlich darüber.	61	5	1	relative_clause_subject	SV-#
+deu_0061	deu	SG	Eine Journalistin, die den Minister während der Konferenz interviewte	Journalistinnen, die den Minister während der Konferenz interviewten	berichtet heute ausführlich darüber.	61	5	1	relative_clause_subject	SV-#
+deu_0062	deu	PL	Diese Museen, die im 19. Jahrhundert von reichen Kaufleuten gestiftet wurden	Dieses Museum, das im 19. Jahrhundert von einem reichen Kaufmann gestiftet wurde	zeigen derzeit Sonderausstellungen.	62	5	1	relative_clause_subject	SV-#
+deu_0062	deu	SG	Dieses Museum, das im 19. Jahrhundert von einem reichen Kaufmann gestiftet wurde	Diese Museen, die im 19. Jahrhundert von reichen Kaufleuten gestiftet wurden	zeigt derzeit eine Sonderausstellung.	62	5	1	relative_clause_subject	SV-#
+deu_0063	deu	PL	Seine Hunde, die im Garten unter den Apfelbäumen begraben liegen	Sein Hund, der im Garten unter dem Apfelbaum begraben liegt	machen ihm immer noch Sorgen.	63	5	1	relative_clause_subject	SV-#
+deu_0063	deu	SG	Sein Hund, der im Garten unter dem Apfelbaum begraben liegt	Seine Hunde, die im Garten unter den Apfelbäumen begraben liegen	macht ihm immer noch Sorgen.	63	5	1	relative_clause_subject	SV-#
+deu_0064	deu	PL	Die Romane, deren Autoren aus dem Ausland stammen	Der Roman, dessen Autor aus dem Ausland stammt	verkaufen sich überraschend gut.	64	5	1	relative_clause_subject	SV-#
+deu_0064	deu	SG	Der Roman, dessen Autor aus dem Ausland stammt	Die Romane, deren Autoren aus dem Ausland stammen	verkauft sich überraschend gut.	64	5	1	relative_clause_subject	SV-#
+deu_0065	deu	PL	Die Tische, die in der Werkstatt neben den Türen stehen	Der Tisch, der in der Werkstatt neben der Tür steht	wurden gestern noch lackiert.	65	5	1	relative_clause_subject	SV-#
+deu_0065	deu	SG	Der Tisch, der in der Werkstatt neben der Tür steht	Die Tische, die in der Werkstatt neben den Türen stehen	wurde gestern noch lackiert.	65	5	1	relative_clause_subject	SV-#
+deu_0066	deu	PL	Lehrer, die ihren Schülern im Flur die Aufgabe erklärten	Ein Lehrer, der seinen Schülern im Flur die Aufgabe erklärte	loben die Bemühungen einzelner.	66	5	1	relative_clause_subject	SV-#
+deu_0066	deu	SG	Ein Lehrer, der seinen Schülern im Flur die Aufgabe erklärte	Lehrer, die ihren Schülern im Flur die Aufgabe erklärten	lobt die Bemühungen einzelner.	66	5	1	relative_clause_subject	SV-#
+deu_0067	deu	PL	Regierungen, die wegen verschiedener Skandale interne Regeln änderten	Die Regierung, die wegen des Skandals interne Regeln änderte	kündigen nun weitere Reformen an.	67	5	1	relative_clause_subject	SV-#
+deu_0067	deu	SG	Die Regierung, die wegen des Skandals interne Regeln änderte	Regierungen, die wegen verschiedener Skandale interne Regeln änderten	kündigt nun weitere Reformen an.	67	5	1	relative_clause_subject	SV-#
+deu_0068	deu	PL	Die Berge, die über den Tälern mit alten Kapellen versehen sind	Der Berg, der über dem Tal mit einer alten Kapelle versehen ist	ziehen jedes Jahr viele Wanderer an.	68	5	1	relative_clause_subject	SV-#
+deu_0068	deu	SG	Der Berg, der über dem Tal mit einer alten Kapelle versehen ist	Die Berge, die über den Tälern mit alten Kapellen versehen sind	zieht jedes Jahr viele Wanderer an.	68	5	1	relative_clause_subject	SV-#
+deu_0069	deu	PL	Die Unternehmen, die in den Fabriken neue Roboter installierten	Das Unternehmen, das in der Fabrik einen neuen Roboter installierte	erwarten dadurch Kosteneinsparungen.	69	5	1	relative_clause_subject	SV-#
+deu_0069	deu	SG	Das Unternehmen, das in der Fabrik einen neuen Roboter installierte	Die Unternehmen, die in den Fabriken neue Roboter installierten	erwartet dadurch Kosteneinsparungen.	69	5	1	relative_clause_subject	SV-#

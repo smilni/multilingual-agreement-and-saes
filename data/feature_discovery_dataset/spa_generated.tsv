@@ -1,0 +1,201 @@
+pair_id	language	target_number	good_prefix	bad_prefix	continuation	source_idx	distance	has_attractor	template_id	phenomenon_family
+spa_0000	spa	PL	Los abogados	El abogado	firmaron el contrato.	0	1	0	simple_np	SV-#
+spa_0000	spa	SG	El abogado	Los abogados	firmó el contrato.	0	1	0	simple_np	SV-#
+spa_0001	spa	PL	Unas maestras	Una maestra	corrigieron los exámenes.	1	1	0	simple_np	SV-#
+spa_0001	spa	SG	Una maestra	Unas maestras	corrigió los exámenes.	1	1	0	simple_np	SV-#
+spa_0002	spa	PL	Estos ríos	Este río	desembocan en el mar.	2	1	0	simple_np	SV-#
+spa_0002	spa	SG	Este río	Estos ríos	desemboca en el mar.	2	1	0	simple_np	SV-#
+spa_0003	spa	PL	Mis perros	Mi perro	ladraron toda la noche.	3	1	0	simple_np	SV-#
+spa_0003	spa	SG	Mi perro	Mis perros	ladró toda la noche.	3	1	0	simple_np	SV-#
+spa_0004	spa	PL	Algunos libros	Algún libro	contienen mapas antiguos.	4	1	0	simple_np	SV-#
+spa_0004	spa	SG	Algún libro	Algunos libros	contiene mapas antiguos.	4	1	0	simple_np	SV-#
+spa_0005	spa	PL	Estas empresas	Esta empresa	anunciaron la fusión.	5	1	0	simple_np	SV-#
+spa_0005	spa	SG	Esta empresa	Estas empresas	anunció la fusión.	5	1	0	simple_np	SV-#
+spa_0006	spa	PL	Nuestros archivos	Nuestro archivo	incluyen los registros.	6	1	0	simple_np	SV-#
+spa_0006	spa	SG	Nuestro archivo	Nuestros archivos	incluye los registros.	6	1	0	simple_np	SV-#
+spa_0007	spa	PL	Esos museos	Ese museo	exhiben obras contemporáneas.	7	1	0	simple_np	SV-#
+spa_0007	spa	SG	Ese museo	Esos museos	exhibe obras contemporáneas.	7	1	0	simple_np	SV-#
+spa_0008	spa	PL	Las escuelas	La escuela	cerraron por reformas.	8	1	0	simple_np	SV-#
+spa_0008	spa	SG	La escuela	Las escuelas	cerró por reformas.	8	1	0	simple_np	SV-#
+spa_0009	spa	PL	Estas canciones	Esta canción	emocionan al público.	9	1	0	simple_np	SV-#
+spa_0009	spa	SG	Esta canción	Estas canciones	emociona al público.	9	1	0	simple_np	SV-#
+spa_0010	spa	PL	las cajas vacías	la caja vacía	contenían un mapa del barrio	10	3	0	adj_np	SV-#
+spa_0010	spa	SG	la caja vacía	las cajas vacías	contenía un mapa del barrio	10	3	0	adj_np	SV-#
+spa_0011	spa	PL	los altos árboles	el alto árbol	proporcionaban sombra en el parque	11	3	0	adj_np	SV-#
+spa_0011	spa	SG	el alto árbol	los altos árboles	proporcionaba sombra en el parque	11	3	0	adj_np	SV-#
+spa_0012	spa	PL	unos estudiantes jóvenes	un estudiante joven	aprobaron el examen final	12	3	0	adj_np	SV-#
+spa_0012	spa	SG	un estudiante joven	unos estudiantes jóvenes	aprobó el examen final	12	3	0	adj_np	SV-#
+spa_0013	spa	PL	mis gatos negros	mi gato negro	maullaron toda la noche	13	3	0	adj_np	SV-#
+spa_0013	spa	SG	mi gato negro	mis gatos negros	maulló toda la noche	13	3	0	adj_np	SV-#
+spa_0014	spa	PL	los ríos caudalosos	el río caudaloso	desembocaron en el mar	14	3	0	adj_np	SV-#
+spa_0014	spa	SG	el río caudaloso	los ríos caudalosos	desembocó en el mar	14	3	0	adj_np	SV-#
+spa_0015	spa	PL	estas computadoras portátiles	esta computadora portátil	funcionaron sin problemas	15	3	0	adj_np	SV-#
+spa_0015	spa	SG	esta computadora portátil	estas computadoras portátiles	funcionó sin problemas	15	3	0	adj_np	SV-#
+spa_0016	spa	PL	las puertas viejas	la puerta vieja	abrieron con dificultad	16	3	0	adj_np	SV-#
+spa_0016	spa	SG	la puerta vieja	las puertas viejas	abrió con dificultad	16	3	0	adj_np	SV-#
+spa_0017	spa	PL	los documentos oficiales	el documento oficial	firmaron la autorización	17	3	0	adj_np	SV-#
+spa_0017	spa	SG	el documento oficial	los documentos oficiales	firmó la autorización	17	3	0	adj_np	SV-#
+spa_0018	spa	PL	esas ciudades antiguas	esa ciudad antigua	atraen a turistas	18	3	0	adj_np	SV-#
+spa_0018	spa	SG	esa ciudad antigua	esas ciudades antiguas	atrae a turistas	18	3	0	adj_np	SV-#
+spa_0019	spa	PL	unos periódicos locales	un periódico local	publicaron una entrevista	19	3	0	adj_np	SV-#
+spa_0019	spa	SG	un periódico local	unos periódicos locales	publicó una entrevista	19	3	0	adj_np	SV-#
+spa_0020	spa	PL	Los altos antiguos faros	El alto antiguo faro	brillan en la costa esta noche	20	2	0	long_subject_no_attractor	SV-#
+spa_0020	spa	SG	El alto antiguo faro	Los altos antiguos faros	brilla en la costa esta noche	20	2	0	long_subject_no_attractor	SV-#
+spa_0021	spa	PL	Tres pequeños lobos	Un pequeño lobo	aullaron a la luna anoche	21	1	0	long_subject_no_attractor	SV-#
+spa_0021	spa	SG	Un pequeño lobo	Tres pequeños lobos	aulló a la luna anoche	21	1	0	long_subject_no_attractor	SV-#
+spa_0022	spa	PL	Los recientemente restaurados viejos teatros	El recientemente restaurado viejo teatro	reabrieron sus puertas al público	22	3	0	long_subject_no_attractor	SV-#
+spa_0022	spa	SG	El recientemente restaurado viejo teatro	Los recientemente restaurados viejos teatros	reabrió sus puertas al público	22	3	0	long_subject_no_attractor	SV-#
+spa_0023	spa	PL	Mis viejos y eficientes ordenadores	Mi viejo y eficiente ordenador	funcionaron sin fallos todo el día	23	1	0	long_subject_no_attractor	SV-#
+spa_0023	spa	SG	Mi viejo y eficiente ordenador	Mis viejos y eficientes ordenadores	funcionó sin fallos todo el día	23	1	0	long_subject_no_attractor	SV-#
+spa_0024	spa	PL	Las jóvenes talentosas pianistas	La joven talentosa pianista	tocaron en el concierto principal	24	1	0	long_subject_no_attractor	SV-#
+spa_0024	spa	SG	La joven talentosa pianista	Las jóvenes talentosas pianistas	tocó en el concierto principal	24	1	0	long_subject_no_attractor	SV-#
+spa_0025	spa	PL	Cinco jóvenes voluntarios	Un joven voluntario	ayudaron a organizar la campaña	25	2	0	long_subject_no_attractor	SV-#
+spa_0025	spa	SG	Un joven voluntario	Cinco jóvenes voluntarios	ayudó a organizar la campaña	25	2	0	long_subject_no_attractor	SV-#
+spa_0026	spa	PL	Los recientemente enjaulados hambrientos tigres	El recientemente enjaulado hambriento tigre	rugieron dentro del recinto	26	3	0	long_subject_no_attractor	SV-#
+spa_0026	spa	SG	El recientemente enjaulado hambriento tigre	Los recientemente enjaulados hambrientos tigres	rugió dentro del recinto	26	3	0	long_subject_no_attractor	SV-#
+spa_0027	spa	PL	Nuestras antiguas y acogedoras bibliotecas	Nuestra antigua y acogedora biblioteca	cerraron antes del mediodía	27	1	0	long_subject_no_attractor	SV-#
+spa_0027	spa	SG	Nuestra antigua y acogedora biblioteca	Nuestras antiguas y acogedoras bibliotecas	cerró antes del mediodía	27	1	0	long_subject_no_attractor	SV-#
+spa_0028	spa	PL	Esos enormes y frágiles glaciares	Ese enorme y frágil glaciar	se derrumbaron en la bahía	28	3	0	long_subject_no_attractor	SV-#
+spa_0028	spa	SG	Ese enorme y frágil glaciar	Esos enormes y frágiles glaciares	se derrumbó en la bahía	28	3	0	long_subject_no_attractor	SV-#
+spa_0029	spa	PL	Dos importantes leyes	Una importante ley	entraron en vigor el primero de enero	29	2	0	long_subject_no_attractor	SV-#
+spa_0029	spa	SG	Una importante ley	Dos importantes leyes	entró en vigor el primero de enero	29	2	0	long_subject_no_attractor	SV-#
+spa_0030	spa	PL	Los alcaldes de la región	El alcalde de la región	anunciaron nuevas medidas.	30	3	1	pp_attractor	SV-#
+spa_0030	spa	SG	El alcalde de la región	Los alcaldes de la región	anunció nuevas medidas.	30	3	1	pp_attractor	SV-#
+spa_0031	spa	PL	Unas doctoras cerca de la clínica	Una doctora cerca de la clínica	hablaron sobre la salud pública.	31	4	1	pp_attractor	SV-#
+spa_0031	spa	SG	Una doctora cerca de la clínica	Unas doctoras cerca de la clínica	habló sobre la salud pública.	31	4	1	pp_attractor	SV-#
+spa_0032	spa	PL	Mis amigos junto a tres perros	Mi amigo junto a tres perros	saludaron al repartidor.	32	4	1	pp_attractor	SV-#
+spa_0032	spa	SG	Mi amigo junto a tres perros	Mis amigos junto a tres perros	saludó al repartidor.	32	4	1	pp_attractor	SV-#
+spa_0033	spa	PL	Estos museos al lado de la plaza	Este museo al lado de la plaza	cerraron ayer por mantenimiento.	33	4	1	pp_attractor	SV-#
+spa_0033	spa	SG	Este museo al lado de la plaza	Estos museos al lado de la plaza	cerró ayer por mantenimiento.	33	4	1	pp_attractor	SV-#
+spa_0034	spa	PL	Los gatos detrás de las cajas	El gato detrás de las cajas	durmieron toda la tarde.	34	3	1	pp_attractor	SV-#
+spa_0034	spa	SG	El gato detrás de las cajas	Los gatos detrás de las cajas	durmió toda la tarde.	34	3	1	pp_attractor	SV-#
+spa_0035	spa	PL	Unas velas debajo de las hojas	Una vela debajo de las hojas	iluminaron la habitación.	35	4	1	pp_attractor	SV-#
+spa_0035	spa	SG	Una vela debajo de las hojas	Unas velas debajo de las hojas	iluminó la habitación.	35	4	1	pp_attractor	SV-#
+spa_0036	spa	PL	Los cajones dentro del armario	El cajón dentro del armario	contenían herramientas.	36	4	1	pp_attractor	SV-#
+spa_0036	spa	SG	El cajón dentro del armario	Los cajones dentro del armario	contenía herramientas.	36	4	1	pp_attractor	SV-#
+spa_0037	spa	PL	Nuestros equipos desde la provincia	Nuestro equipo desde la provincia	ganaron el torneo regional.	37	4	1	pp_attractor	SV-#
+spa_0037	spa	SG	Nuestro equipo desde la provincia	Nuestros equipos desde la provincia	ganó el torneo regional.	37	4	1	pp_attractor	SV-#
+spa_0038	spa	PL	Los poemas entre las rimas	El poema entre las rimas	destacan por su ritmo.	38	3	1	pp_attractor	SV-#
+spa_0038	spa	SG	El poema entre las rimas	Los poemas entre las rimas	destaca por su ritmo.	38	3	1	pp_attractor	SV-#
+spa_0039	spa	PL	Mis hermanas sobre la mesa	Mi hermana sobre la mesa	apoyaron la cabeza.	39	3	1	pp_attractor	SV-#
+spa_0039	spa	SG	Mi hermana sobre la mesa	Mis hermanas sobre la mesa	apoyó la cabeza.	39	3	1	pp_attractor	SV-#
+spa_0040	spa	PL	Varios de los estudiantes aplicados	Uno de los estudiantes aplicados	recibieron una nota alta en el examen.	40	1	1	quantifier_head_attractor	SV-#
+spa_0040	spa	SG	Uno de los estudiantes aplicados	Varios de los estudiantes aplicados	recibió una nota alta en el examen.	40	1	1	quantifier_head_attractor	SV-#
+spa_0041	spa	PL	Muchas de las delegadas responsables	Una de las delegadas responsables	presentaron una propuesta al pleno.	41	1	1	quantifier_head_attractor	SV-#
+spa_0041	spa	SG	Una de las delegadas responsables	Muchas de las delegadas responsables	presentó una propuesta al pleno.	41	1	1	quantifier_head_attractor	SV-#
+spa_0042	spa	PL	Tres de mis colegas cercanos	Alguno de mis colegas cercanos	recomendaron cambiar el enfoque del proyecto.	42	1	1	quantifier_head_attractor	SV-#
+spa_0042	spa	SG	Alguno de mis colegas cercanos	Tres de mis colegas cercanos	recomendó cambiar el enfoque del proyecto.	42	1	1	quantifier_head_attractor	SV-#
+spa_0043	spa	PL	Pocos de los perros del barrio	Cada uno de los perros del barrio	ladraron toda la noche.	43	1	1	quantifier_head_attractor	SV-#
+spa_0043	spa	SG	Cada uno de los perros del barrio	Pocos de los perros del barrio	ladró toda la noche.	43	1	1	quantifier_head_attractor	SV-#
+spa_0044	spa	PL	Dos de esos edificios antiguos	Cualquiera de esos edificios antiguos	albergaron un museo durante décadas.	44	1	1	quantifier_head_attractor	SV-#
+spa_0044	spa	SG	Cualquiera de esos edificios antiguos	Dos de esos edificios antiguos	albergó un museo durante décadas.	44	1	1	quantifier_head_attractor	SV-#
+spa_0045	spa	PL	La mayoría de las instituciones públicas	Una de las instituciones públicas	financian programas educativos.	45	1	1	quantifier_head_attractor	SV-#
+spa_0045	spa	SG	Una de las instituciones públicas	La mayoría de las instituciones públicas	financia programas educativos.	45	1	1	quantifier_head_attractor	SV-#
+spa_0046	spa	PL	Algunos de los documentos oficiales	Ninguno de los documentos oficiales	contienen información sensible.	46	1	1	quantifier_head_attractor	SV-#
+spa_0046	spa	SG	Ninguno de los documentos oficiales	Algunos de los documentos oficiales	contiene información sensible.	46	1	1	quantifier_head_attractor	SV-#
+spa_0047	spa	PL	Varias de las montañas cercanas	Cada una de las montañas cercanas	dominan el paisaje del valle.	47	1	1	quantifier_head_attractor	SV-#
+spa_0047	spa	SG	Cada una de las montañas cercanas	Varios de las montañas cercanas	domina el paisaje del valle.	47	1	1	quantifier_head_attractor	SV-#
+spa_0048	spa	PL	Numerosas de las ideas iniciales	Alguna de las ideas iniciales	inspiraron la solución final.	48	1	1	quantifier_head_attractor	SV-#
+spa_0048	spa	SG	Alguna de las ideas iniciales	Numerosas de las ideas iniciales	inspiró la solución final.	48	1	1	quantifier_head_attractor	SV-#
+spa_0049	spa	PL	Dos de las empresas emergentes	Ninguna de las empresas emergentes	invirtieron en tecnología limpia.	49	1	1	quantifier_head_attractor	SV-#
+spa_0049	spa	SG	Ninguna de las empresas emergentes	Dos de las empresas emergentes	invirtió en tecnología limpia.	49	1	1	quantifier_head_attractor	SV-#
+spa_0050	spa	PL	Los escritores de la isla	El escritor de la isla	han publicado el nuevo libro	50	1	0	perfect_aux	SV-#
+spa_0050	spa	SG	El escritor de la isla	Los escritores de la isla	ha publicado el nuevo libro	50	1	0	perfect_aux	SV-#
+spa_0051	spa	PL	Las puertas del garaje	La puerta del garaje	están cerradas desde ayer	51	1	0	perfect_aux	SV-#
+spa_0051	spa	SG	La puerta del garaje	Las puertas del garaje	está cerrada desde ayer	51	1	0	perfect_aux	SV-#
+spa_0052	spa	PL	Los equipos de rescate	El equipo de rescate	van a revisar el barco	52	1	0	perfect_aux	SV-#
+spa_0052	spa	SG	El equipo de rescate	Los equipos de rescate	va a revisar el barco	52	1	0	perfect_aux	SV-#
+spa_0053	spa	PL	Unas turistas italianas	Una turista italiana	pueden ver las pinturas	53	1	0	perfect_aux	SV-#
+spa_0053	spa	SG	Una turista italiana	Unas turistas italianas	puede ver las pinturas	53	1	0	perfect_aux	SV-#
+spa_0054	spa	PL	Mis vecinos del quinto	Mi vecino del quinto	deben apagar las luces	54	1	0	perfect_aux	SV-#
+spa_0054	spa	SG	Mi vecino del quinto	Mis vecinos del quinto	debe apagar las luces	54	1	0	perfect_aux	SV-#
+spa_0055	spa	PL	Estas máquinas antiguas	Esta máquina antigua	quieren funcionar sin ruido	55	1	0	perfect_aux	SV-#
+spa_0055	spa	SG	Esta máquina antigua	Estas máquinas antiguas	quiere funcionar sin ruido	55	1	0	perfect_aux	SV-#
+spa_0056	spa	PL	Los ríos cercanos	El río cercano	suelen desbordar en primavera	56	1	0	perfect_aux	SV-#
+spa_0056	spa	SG	El río cercano	Los ríos cercanos	suele desbordar en primavera	56	1	0	perfect_aux	SV-#
+spa_0057	spa	PL	Los museos nacionales	El museo nacional	tienen que reabrir la exposición	57	1	0	perfect_aux	SV-#
+spa_0057	spa	SG	El museo nacional	Los museos nacionales	tiene que reabrir la exposición	57	1	0	perfect_aux	SV-#
+spa_0058	spa	PL	Las profesoras de física	La profesora de física	siguen corrigiendo los exámenes	58	1	0	perfect_aux	SV-#
+spa_0058	spa	SG	La profesora de física	Las profesoras de física	sigue corrigiendo los exámenes	58	1	0	perfect_aux	SV-#
+spa_0059	spa	PL	Los teléfonos móviles	El teléfono móvil	vuelven a sonar cada hora	59	1	0	perfect_aux	SV-#
+spa_0059	spa	SG	El teléfono móvil	Los teléfonos móviles	vuelve a sonar cada hora	59	1	0	perfect_aux	SV-#
+spa_0060	spa	PL	Mis pies izquierdos	Mi pie izquierdo	duelen desde ayer.	60	1	0	irregular_plural	SV-#
+spa_0060	spa	SG	Mi pie izquierdo	Mis pies izquierdos	duele desde ayer.	60	1	0	irregular_plural	SV-#
+spa_0061	spa	PL	Estos jóvenes de la clase	Este joven de la clase	quieren hablar con el profesor.	61	1	0	irregular_plural	SV-#
+spa_0061	spa	SG	Este joven de la clase	Estos jóvenes de la clase	quiere hablar con el profesor.	61	1	0	irregular_plural	SV-#
+spa_0062	spa	PL	Los países vecinos	El país vecino	han anunciado nuevas medidas.	62	1	0	irregular_plural	SV-#
+spa_0062	spa	SG	El país vecino	Los países vecinos	ha anunciado nuevas medidas.	62	1	0	irregular_plural	SV-#
+spa_0063	spa	PL	Los huéspedes del hotel	El huésped del hotel	reclamaron la atención del gerente.	63	2	0	irregular_plural	SV-#
+spa_0063	spa	SG	El huésped del hotel	Los huéspedes del hotel	reclamó la atención del gerente.	63	2	0	irregular_plural	SV-#
+spa_0064	spa	PL	Los regímenes autoritarios	El régimen autoritario	cambiaron las leyes ayer.	64	1	0	irregular_plural	SV-#
+spa_0064	spa	SG	El régimen autoritario	Los regímenes autoritarios	cambió las leyes ayer.	64	1	0	irregular_plural	SV-#
+spa_0065	spa	PL	Unos caracteres fuertes	Un carácter fuerte	se aprecian en el relato.	65	1	0	irregular_plural	SV-#
+spa_0065	spa	SG	Un carácter fuerte	Unos caracteres fuertes	se aprecia en el relato.	65	1	0	irregular_plural	SV-#
+spa_0066	spa	PL	Los exámenes finales	El examen final	se realizaron ayer.	66	1	0	irregular_plural	SV-#
+spa_0066	spa	SG	El examen final	Los exámenes finales	se realizó ayer.	66	1	0	irregular_plural	SV-#
+spa_0067	spa	PL	Estos árboles junto a la casa	Este árbol junto a la casa	caen con la tormenta.	67	2	0	irregular_plural	SV-#
+spa_0067	spa	SG	Este árbol junto a la casa	Estos árboles junto a la casa	cae con la tormenta.	67	2	0	irregular_plural	SV-#
+spa_0068	spa	PL	Mis álbumes familiares	Mi álbum familiar	contienen fotos del viaje.	68	1	0	irregular_plural	SV-#
+spa_0068	spa	SG	Mi álbum familiar	Mis álbumes familiares	contiene fotos del viaje.	68	1	0	irregular_plural	SV-#
+spa_0069	spa	PL	Los días soleados	El día soleado	transcurrieron sin incidentes.	69	1	0	irregular_plural	SV-#
+spa_0069	spa	SG	El día soleado	Los días soleados	transcurrió sin incidentes.	69	1	0	irregular_plural	SV-#
+spa_0070	spa	PL	Los profesores que los estudiantes admiraban	El profesor que los estudiantes admiraban	llegaron a la conferencia	70	3	1	relative_clause_subject	SV-#
+spa_0070	spa	SG	El profesor que los estudiantes admiraban	Los profesores que los estudiantes admiraban	llegó a la conferencia	70	3	1	relative_clause_subject	SV-#
+spa_0071	spa	PL	Unos cuadros de los que los críticos hablaron	Un cuadro del que los críticos hablaron	fueron vendidos en la subasta	71	4	1	relative_clause_subject	SV-#
+spa_0071	spa	SG	Un cuadro del que los críticos hablaron	Unos cuadros de los que los críticos hablaron	fue vendido en la subasta	71	4	1	relative_clause_subject	SV-#
+spa_0072	spa	PL	Estas universidades que decenas de profesores abandonaron	Esta universidad que decenas de profesores abandonaron	anunciaron cambios en el plan de estudios	72	4	1	relative_clause_subject	SV-#
+spa_0072	spa	SG	Esta universidad que decenas de profesores abandonaron	Estas universidades que decenas de profesores abandonaron	anunció cambios en el plan de estudios	72	4	1	relative_clause_subject	SV-#
+spa_0073	spa	PL	Los ríos por donde los pescadores pasaban	El río por donde los pescadores pasaban	desbordaron el invierno pasado	73	4	1	relative_clause_subject	SV-#
+spa_0073	spa	SG	El río por donde los pescadores pasaban	Los ríos por donde los pescadores pasaban	desbordó el invierno pasado	73	4	1	relative_clause_subject	SV-#
+spa_0074	spa	PL	Los libros en los que varios críticos coincidieron	El libro en el que varios críticos coincidieron	se publicaron el año pasado	74	4	1	relative_clause_subject	SV-#
+spa_0074	spa	SG	El libro en el que varios críticos coincidieron	Los libros en los que varios críticos coincidieron	se publicó el año pasado	74	4	1	relative_clause_subject	SV-#
+spa_0075	spa	PL	Las ideas que muchos expertos rechazaron	La idea que muchos expertos rechazaron	sorprendieron al público	75	3	1	relative_clause_subject	SV-#
+spa_0075	spa	SG	La idea que muchos expertos rechazaron	Las ideas que muchos expertos rechazaron	sorprendió al público	75	3	1	relative_clause_subject	SV-#
+spa_0076	spa	PL	Mis perros que los niños alimentaban	Mi perro que los niños alimentaban	ladraron toda la noche	76	3	1	relative_clause_subject	SV-#
+spa_0076	spa	SG	Mi perro que los niños alimentaban	Mis perros que los niños alimentaban	ladró toda la noche	76	3	1	relative_clause_subject	SV-#
+spa_0077	spa	PL	Los barcos a los que los piratas abordaron	El barco al que los piratas abordaron	se hundieron en la bahía	77	5	1	relative_clause_subject	SV-#
+spa_0077	spa	SG	El barco al que los piratas abordaron	Los barcos a los que los piratas abordaron	se hundió en la bahía	77	5	1	relative_clause_subject	SV-#
+spa_0078	spa	PL	Los jueces a quienes múltiples medios denunciaron	El juez a quien múltiples medios denunciaron	absolvieron al acusado	78	4	1	relative_clause_subject	SV-#
+spa_0078	spa	SG	El juez a quien múltiples medios denunciaron	Los jueces a quienes múltiples medios denunciaron	absolvió al acusado	78	4	1	relative_clause_subject	SV-#
+spa_0079	spa	PL	Las fábricas donde varios sindicatos organizaron huelgas	La fábrica donde varios sindicatos organizaron huelgas	cerraron temporalmente	79	3	1	relative_clause_subject	SV-#
+spa_0079	spa	SG	La fábrica donde varios sindicatos organizaron huelgas	Las fábricas donde varios sindicatos organizaron huelgas	cerró temporalmente	79	3	1	relative_clause_subject	SV-#
+spa_0080	spa	PL	Cuando los ingenieros terminaron, los proyectos	Cuando los ingenieros terminaron, el proyecto	recibieron una mención en la feria	80	3	1	non_initial_subject	SV-#
+spa_0080	spa	SG	Cuando los ingenieros terminaron, el proyecto	Cuando los ingenieros terminaron, los proyectos	recibió una mención en la feria	80	3	1	non_initial_subject	SV-#
+spa_0081	spa	PL	Porque los alumnos protestaron, las universidades	Porque los alumnos protestaron, la universidad	emitieron un comunicado oficial	81	3	1	non_initial_subject	SV-#
+spa_0081	spa	SG	Porque los alumnos protestaron, la universidad	Porque los alumnos protestaron, las universidades	emitió un comunicado oficial	81	3	1	non_initial_subject	SV-#
+spa_0082	spa	PL	El juez anunció la sentencia, pero mis amigos	El juez anunció la sentencia, pero mi amigo	esperaron en la sala	82	2	1	non_initial_subject	SV-#
+spa_0082	spa	SG	El juez anunció la sentencia, pero mi amigo	El juez anunció la sentencia, pero mis amigos	esperó en la sala	82	2	1	non_initial_subject	SV-#
+spa_0083	spa	PL	Si alguien llama, estos paquetes	Si alguien llama, este paquete	se actualizarán en la lista	83	4	1	non_initial_subject	SV-#
+spa_0083	spa	SG	Si alguien llama, este paquete	Si alguien llama, estos paquetes	se actualizará en la lista	83	4	1	non_initial_subject	SV-#
+spa_0084	spa	PL	La película duró tres horas, y aquellos actores	La película duró tres horas, y aquel actor	sonrieron al público	84	2	1	non_initial_subject	SV-#
+spa_0084	spa	SG	La película duró tres horas, y aquel actor	La película duró tres horas, y aquellos actores	sonrió al público	84	2	1	non_initial_subject	SV-#
+spa_0085	spa	PL	Después de que la tormenta amainó, unos árboles	Después de que la tormenta amainó, un árbol	bloquearon la carretera	85	3	1	non_initial_subject	SV-#
+spa_0085	spa	SG	Después de que la tormenta amainó, un árbol	Después de que la tormenta amainó, unos árboles	bloqueó la carretera	85	3	1	non_initial_subject	SV-#
+spa_0086	spa	PL	Los testigos describieron los hechos, y mis computadoras	Los testigos describieron los hechos, y mi computadora	se reiniciaron sin aviso	86	2	1	non_initial_subject	SV-#
+spa_0086	spa	SG	Los testigos describieron los hechos, y mi computadora	Los testigos describieron los hechos, y mis computadoras	se reinició sin aviso	86	2	1	non_initial_subject	SV-#
+spa_0087	spa	PL	Como muchos vecinos se quejaron, aquellas calles	Como muchos vecinos se quejaron, aquella calle	fueron reparadas esta semana	87	4	1	non_initial_subject	SV-#
+spa_0087	spa	SG	Como muchos vecinos se quejaron, aquella calle	Como muchos vecinos se quejaron, aquellas calles	fue reparada esta semana	87	4	1	non_initial_subject	SV-#
+spa_0088	spa	PL	El coro ensayó toda la tarde, y tus hijas	El coro ensayó toda la tarde, y tu hija	interpretaron la pieza principal	88	2	1	non_initial_subject	SV-#
+spa_0088	spa	SG	El coro ensayó toda la tarde, y tu hija	El coro ensayó toda la tarde, y tus hijas	interpretó la pieza principal	88	2	1	non_initial_subject	SV-#
+spa_0089	spa	PL	Mientras las tiendas cerraban, estos cuadros	Mientras las tiendas cerraban, este cuadro	permanecieron en la pared	89	4	1	non_initial_subject	SV-#
+spa_0089	spa	SG	Mientras las tiendas cerraban, este cuadro	Mientras las tiendas cerraban, estos cuadros	permaneció en la pared	89	4	1	non_initial_subject	SV-#
+spa_0090	spa	PL	Ayer, ellos ya	Ayer, él ya	comenzaron a preparar el informe.	90	1	0	pronoun_subject	SV-#
+spa_0090	spa	SG	Ayer, él ya	Ayer, ellos ya	comenzó a preparar el informe.	90	1	0	pronoun_subject	SV-#
+spa_0091	spa	PL	Después de la reunión, ellas ahora	Después de la reunión, ella ahora	pueden firmar los documentos.	91	1	0	pronoun_subject	SV-#
+spa_0091	spa	SG	Después de la reunión, ella ahora	Después de la reunión, ellas ahora	puede firmar los documentos.	91	1	0	pronoun_subject	SV-#
+spa_0092	spa	PL	Por la mañana, ellos aún	Por la mañana, él aún	están leyendo la novela.	92	1	0	pronoun_subject	SV-#
+spa_0092	spa	SG	Por la mañana, él aún	Por la mañana, ellos aún	está leyendo la novela.	92	1	0	pronoun_subject	SV-#
+spa_0093	spa	PL	Ellos siempre	Él siempre	aceptan las responsabilidades.	93	1	0	pronoun_subject	SV-#
+spa_0093	spa	SG	Él siempre	Ellos siempre	acepta las responsabilidades.	93	1	0	pronoun_subject	SV-#
+spa_0094	spa	PL	En verano, ellas también	En verano, ella también	quieren viajar a España.	94	1	0	pronoun_subject	SV-#
+spa_0094	spa	SG	En verano, ella también	En verano, ellas también	quiere viajar a España.	94	1	0	pronoun_subject	SV-#
+spa_0095	spa	PL	Antes de dormir, ellos ya	Antes de dormir, él ya	apagaron las luces.	95	1	0	pronoun_subject	SV-#
+spa_0095	spa	SG	Antes de dormir, él ya	Antes de dormir, ellos ya	apagó las luces.	95	1	0	pronoun_subject	SV-#
+spa_0096	spa	PL	Ahora, ellas finalmente	Ahora, ella finalmente	escriben el informe.	96	1	0	pronoun_subject	SV-#
+spa_0096	spa	SG	Ahora, ella finalmente	Ahora, ellas finalmente	escribe el informe.	96	1	0	pronoun_subject	SV-#
+spa_0097	spa	PL	Si hace frío, ellos siempre	Si hace frío, él siempre	se ponen el abrigo.	97	1	0	pronoun_subject	SV-#
+spa_0097	spa	SG	Si hace frío, él siempre	Si hace frío, ellos siempre	se pone el abrigo.	97	1	0	pronoun_subject	SV-#
+spa_0098	spa	PL	Después del corte, ellas ahora	Después del corte, ella ahora	funcionan mejor.	98	1	0	pronoun_subject	SV-#
+spa_0098	spa	SG	Después del corte, ella ahora	Después del corte, ellas ahora	funciona mejor.	98	1	0	pronoun_subject	SV-#
+spa_0099	spa	PL	Por fin, ellas ahora	Por fin, ella ahora	responden a la señal.	99	1	0	pronoun_subject	SV-#
+spa_0099	spa	SG	Por fin, ella ahora	Por fin, ellas ahora	responde a la señal.	99	1	0	pronoun_subject	SV-#

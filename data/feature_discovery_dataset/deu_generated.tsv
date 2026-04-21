@@ -1,0 +1,201 @@
+pair_id	language	target_number	good_prefix	bad_prefix	continuation	source_idx	distance	has_attractor	template_id	phenomenon_family
+deu_0000	deu	PL	Die Studenten	Der Student	lesen das Buch.	0	1	0	simple_np	SV-#
+deu_0000	deu	SG	Der Student	Die Studenten	liest das Buch.	0	1	0	simple_np	SV-#
+deu_0001	deu	PL	Diese Katzen	Diese Katze	jagen die Maus.	1	1	0	simple_np	SV-#
+deu_0001	deu	SG	Diese Katze	Diese Katzen	jagt die Maus.	1	1	0	simple_np	SV-#
+deu_0002	deu	PL	Die Firmen	Die Firma	eröffnen eine neue Filiale.	2	1	0	simple_np	SV-#
+deu_0002	deu	SG	Die Firma	Die Firmen	eröffnet eine neue Filiale.	2	1	0	simple_np	SV-#
+deu_0003	deu	PL	Diese Bücher	Dieses Buch	enthalten wichtige Informationen.	3	1	0	simple_np	SV-#
+deu_0003	deu	SG	Dieses Buch	Diese Bücher	enthält wichtige Informationen.	3	1	0	simple_np	SV-#
+deu_0004	deu	PL	Meine Lehrer	Mein Lehrer	loben den Schüler.	4	1	0	simple_np	SV-#
+deu_0004	deu	SG	Mein Lehrer	Meine Lehrer	lobt den Schüler.	4	1	0	simple_np	SV-#
+deu_0005	deu	PL	Die Flüsse	Der Fluss	fließen schnell vorbei.	5	1	0	simple_np	SV-#
+deu_0005	deu	SG	Der Fluss	Die Flüsse	fließt schnell vorbei.	5	1	0	simple_np	SV-#
+deu_0006	deu	PL	Die Hunde	Der Hund	bellen laut.	6	1	0	simple_np	SV-#
+deu_0006	deu	SG	Der Hund	Die Hunde	bellt laut.	6	1	0	simple_np	SV-#
+deu_0007	deu	PL	Die Museen	Das Museum	zeigen moderne Kunst.	7	1	0	simple_np	SV-#
+deu_0007	deu	SG	Das Museum	Die Museen	zeigt moderne Kunst.	7	1	0	simple_np	SV-#
+deu_0008	deu	PL	Die Briefe	Der Brief	kommen heute an.	8	1	0	simple_np	SV-#
+deu_0008	deu	SG	Der Brief	Die Briefe	kommt heute an.	8	1	0	simple_np	SV-#
+deu_0009	deu	PL	Mehrere Obstbäume	Ein Obstbaum	tragen viele Früchte.	9	1	0	simple_np	SV-#
+deu_0009	deu	SG	Ein Obstbaum	Mehrere Obstbäume	trägt viele Früchte.	9	1	0	simple_np	SV-#
+deu_0010	deu	PL	Die großen Hunde	Der große Hund	bellen laut im Garten	10	1	0	adj_np	SV-#
+deu_0010	deu	SG	Der große Hund	Die großen Hunde	bellt laut im Garten	10	1	0	adj_np	SV-#
+deu_0011	deu	PL	Zwei junge Studenten	Ein junger Student	schreiben einen Aufsatz	11	1	0	adj_np	SV-#
+deu_0011	deu	SG	Ein junger Student	Zwei junge Studenten	schreibt einen Aufsatz	11	1	0	adj_np	SV-#
+deu_0012	deu	PL	Die roten Autos	Das rote Auto	bremsen plötzlich	12	1	0	adj_np	SV-#
+deu_0012	deu	SG	Das rote Auto	Die roten Autos	bremst plötzlich	12	1	0	adj_np	SV-#
+deu_0013	deu	PL	Die konservativen Regierungen	Die konservative Regierung	entscheiden heute	13	1	0	adj_np	SV-#
+deu_0013	deu	SG	Die konservative Regierung	Die konservativen Regierungen	entscheidet heute	13	1	0	adj_np	SV-#
+deu_0014	deu	PL	Die historischen Städte	Die historische Stadt	wachsen weiter	14	1	0	adj_np	SV-#
+deu_0014	deu	SG	Die historische Stadt	Die historischen Städte	wächst weiter	14	1	0	adj_np	SV-#
+deu_0015	deu	PL	Die spannenden Bücher	Das spannende Buch	enthalten viele Informationen	15	1	0	adj_np	SV-#
+deu_0015	deu	SG	Das spannende Buch	Die spannenden Bücher	enthält viele Informationen	15	1	0	adj_np	SV-#
+deu_0016	deu	PL	Die knorrigen Bäume	Der knorrige Baum	blühen im Frühjahr	16	1	0	adj_np	SV-#
+deu_0016	deu	SG	Der knorrige Baum	Die knorrigen Bäume	blüht im Frühjahr	16	1	0	adj_np	SV-#
+deu_0017	deu	PL	Die neuen Gesetze	Das neue Gesetz	gelten ab Montag	17	1	0	adj_np	SV-#
+deu_0017	deu	SG	Das neue Gesetz	Die neuen Gesetze	gilt ab Montag	17	1	0	adj_np	SV-#
+deu_0018	deu	PL	Die schnellen Computer	Der schnelle Computer	stürzen manchmal ab	18	1	0	adj_np	SV-#
+deu_0018	deu	SG	Der schnelle Computer	Die schnellen Computer	stürzt manchmal ab	18	1	0	adj_np	SV-#
+deu_0019	deu	PL	Meine schwarzen Katzen	Meine schwarze Katze	schlafen den ganzen Tag	19	1	0	adj_np	SV-#
+deu_0019	deu	SG	Meine schwarze Katze	Meine schwarzen Katzen	schläft den ganzen Tag	19	1	0	adj_np	SV-#
+deu_0020	deu	PL	Die alten roten Leuchttürme	Der alte rote Leuchtturm	warnen die Schiffe vor Nebel.	20	4	0	long_subject_no_attractor	SV-#
+deu_0020	deu	SG	Der alte rote Leuchtturm	Die alten roten Leuchttürme	warnt die Schiffe vor Nebel.	20	4	0	long_subject_no_attractor	SV-#
+deu_0021	deu	PL	Drei junge Birken	Eine junge Birke	rauschen leise im Wind.	21	3	0	long_subject_no_attractor	SV-#
+deu_0021	deu	SG	Eine junge Birke	Drei junge Birken	rauscht leise im Wind.	21	3	0	long_subject_no_attractor	SV-#
+deu_0022	deu	PL	Die kürzlich entdeckten tiefen Höhlen	Die kürzlich entdeckte tiefe Höhle	locken Geologen aus dem Tal an.	22	5	0	long_subject_no_attractor	SV-#
+deu_0022	deu	SG	Die kürzlich entdeckte tiefe Höhle	Die kürzlich entdeckten tiefen Höhlen	lockt Geologen aus dem Tal an.	22	5	0	long_subject_no_attractor	SV-#
+deu_0023	deu	PL	Meine alten wertvollen Manuskripte	Mein altes wertvolles Manuskript	bewahren wichtige Notizen.	23	4	0	long_subject_no_attractor	SV-#
+deu_0023	deu	SG	Mein altes wertvolles Manuskript	Meine alten wertvollen Manuskripte	bewahrt wichtige Notizen.	23	4	0	long_subject_no_attractor	SV-#
+deu_0024	deu	PL	Die riesigen dunklen Raumschiffe	Das riesige dunkle Raumschiff	landen auf dem Mars.	24	4	0	long_subject_no_attractor	SV-#
+deu_0024	deu	SG	Das riesige dunkle Raumschiff	Die riesigen dunklen Raumschiffe	landet auf dem Mars.	24	4	0	long_subject_no_attractor	SV-#
+deu_0025	deu	PL	Mehrere neue kleine Firmen	Eine neue kleine Firma	gründen heute eine Filiale.	25	4	0	long_subject_no_attractor	SV-#
+deu_0025	deu	SG	Eine neue kleine Firma	Mehrere neue kleine Firmen	gründet heute eine Filiale.	25	4	0	long_subject_no_attractor	SV-#
+deu_0026	deu	PL	Die neu gegründeten modernen Institute	Das neu gegründete moderne Institut	kooperieren mit internationalen Partnern.	26	5	0	long_subject_no_attractor	SV-#
+deu_0026	deu	SG	Das neu gegründete moderne Institut	Die neu gegründeten modernen Institute	kooperiert mit internationalen Partnern.	26	5	0	long_subject_no_attractor	SV-#
+deu_0027	deu	PL	Ihre engagierten erfahrenen Ärzte	Ihr engagierter erfahrener Arzt	behandeln die Patienten sorgfältig.	27	4	0	long_subject_no_attractor	SV-#
+deu_0027	deu	SG	Ihr engagierter erfahrener Arzt	Ihre engagierten erfahrenen Ärzte	behandelt die Patienten sorgfältig.	27	4	0	long_subject_no_attractor	SV-#
+deu_0028	deu	PL	Diese weiten flachen Ebenen	Diese weite flache Ebene	erstrecken sich über Hunderte Kilometer.	28	4	0	long_subject_no_attractor	SV-#
+deu_0028	deu	SG	Diese weite flache Ebene	Diese weiten flachen Ebenen	erstreckt sich über Hunderte Kilometer.	28	4	0	long_subject_no_attractor	SV-#
+deu_0029	deu	PL	Zwei mächtige alte Eichen	Eine mächtige alte Eiche	bieten Lebensraum für zahlreiche Arten.	29	4	0	long_subject_no_attractor	SV-#
+deu_0029	deu	SG	Eine mächtige alte Eiche	Zwei mächtige alte Eichen	bietet Lebensraum für zahlreiche Arten.	29	4	0	long_subject_no_attractor	SV-#
+deu_0030	deu	PL	Die Lehrer neben den Schülern	Der Lehrer neben den Schülern	begrüßen den neuen Direktor.	30	3	1	pp_attractor	SV-#
+deu_0030	deu	SG	Der Lehrer neben den Schülern	Die Lehrer neben den Schülern	begrüßt den neuen Direktor.	30	3	1	pp_attractor	SV-#
+deu_0031	deu	PL	Mehrere Studentinnen in dem Archiv	Eine Studentin in dem Archiv	forschen an einem Projekt.	31	4	1	pp_attractor	SV-#
+deu_0031	deu	SG	Eine Studentin in dem Archiv	Mehrere Studentinnen in dem Archiv	forscht an einem Projekt.	31	4	1	pp_attractor	SV-#
+deu_0032	deu	PL	Die Flugzeuge unter den dunklen Wolken	Das Flugzeug unter den dunklen Wolken	landen sicher auf der Landebahn.	32	3	1	pp_attractor	SV-#
+deu_0032	deu	SG	Das Flugzeug unter den dunklen Wolken	Die Flugzeuge unter den dunklen Wolken	landet sicher auf der Landebahn.	32	3	1	pp_attractor	SV-#
+deu_0033	deu	PL	Seine Autos vor dem alten Haus	Sein Auto vor dem alten Haus	stehen noch in der Einfahrt.	33	2	1	pp_attractor	SV-#
+deu_0033	deu	SG	Sein Auto vor dem alten Haus	Seine Autos vor dem alten Haus	steht noch in der Einfahrt.	33	2	1	pp_attractor	SV-#
+deu_0034	deu	PL	Die Regierungen gegenüber den Medien	Die Regierung gegenüber den Medien	versprechen Reformen.	34	3	1	pp_attractor	SV-#
+deu_0034	deu	SG	Die Regierung gegenüber den Medien	Die Regierungen gegenüber den Medien	verspricht Reformen.	34	3	1	pp_attractor	SV-#
+deu_0035	deu	PL	Diese Hunde zwischen den Katzen	Dieser Hund zwischen den Katzen	bellen laut.	35	2	1	pp_attractor	SV-#
+deu_0035	deu	SG	Dieser Hund zwischen den Katzen	Diese Hunde zwischen den Katzen	bellt laut.	35	2	1	pp_attractor	SV-#
+deu_0036	deu	PL	Mehrere Bücher auf dem alten Tisch	Ein Buch auf dem alten Tisch	liegen noch ungelesen.	36	2	1	pp_attractor	SV-#
+deu_0036	deu	SG	Ein Buch auf dem alten Tisch	Mehrere Bücher auf dem alten Tisch	liegt noch ungelesen.	36	2	1	pp_attractor	SV-#
+deu_0037	deu	PL	Die Krankenhäuser neben den Parkanlagen	Das Krankenhaus neben den Parkanlagen	versorgen die Verletzten.	37	3	1	pp_attractor	SV-#
+deu_0037	deu	SG	Das Krankenhaus neben den Parkanlagen	Die Krankenhäuser neben den Parkanlagen	versorgt die Verletzten.	37	3	1	pp_attractor	SV-#
+deu_0038	deu	PL	Zwei Politiker mit den Beratern	Ein Politiker mit den Beratern	geben heute eine Rede.	38	2	1	pp_attractor	SV-#
+deu_0038	deu	SG	Ein Politiker mit den Beratern	Zwei Politiker mit den Beratern	gibt heute eine Rede.	38	2	1	pp_attractor	SV-#
+deu_0039	deu	PL	Die Dokumente aus der Datenbank	Das Dokument aus der Datenbank	enthalten wichtige Informationen.	39	3	1	pp_attractor	SV-#
+deu_0039	deu	SG	Das Dokument aus der Datenbank	Die Dokumente aus der Datenbank	enthält wichtige Informationen.	39	3	1	pp_attractor	SV-#
+deu_0040	deu	PL	Mehrere der Studenten	Einer der Studenten	wirken nervös.	40	1	1	quantifier_head_attractor	SV-#
+deu_0040	deu	SG	Einer der Studenten	Mehrere der Studenten	wirkt nervös.	40	1	1	quantifier_head_attractor	SV-#
+deu_0041	deu	PL	Viele der Delegierten	Eine der Delegierten	haben das Protokoll unterschrieben.	41	1	1	quantifier_head_attractor	SV-#
+deu_0041	deu	SG	Eine der Delegierten	Viele der Delegierten	hat das Protokoll unterschrieben.	41	1	1	quantifier_head_attractor	SV-#
+deu_0042	deu	PL	Die meisten von den Kritikern	Jeder von den Kritikern	fordern eine Korrektur.	42	2	1	quantifier_head_attractor	SV-#
+deu_0042	deu	SG	Jeder von den Kritikern	Die meisten von den Kritikern	fordert eine Korrektur.	42	2	1	quantifier_head_attractor	SV-#
+deu_0043	deu	PL	Zwei der Forscherinnen	Eine der Forscherinnen	veröffentlichen einen Artikel.	43	1	1	quantifier_head_attractor	SV-#
+deu_0043	deu	SG	Eine der Forscherinnen	Zwei der Forscherinnen	veröffentlicht einen Artikel.	43	1	1	quantifier_head_attractor	SV-#
+deu_0044	deu	PL	Mehrere der Geräte	Eines der Geräte	funktionieren nicht mehr.	44	1	1	quantifier_head_attractor	SV-#
+deu_0044	deu	SG	Eines der Geräte	Mehrere der Geräte	funktioniert nicht mehr.	44	1	1	quantifier_head_attractor	SV-#
+deu_0045	deu	PL	Zahlreiche der Schulen	Mancher der Schulen	bleiben geschlossen.	45	1	1	quantifier_head_attractor	SV-#
+deu_0045	deu	SG	Mancher der Schulen	Zahlreiche der Schulen	bleibt geschlossen.	45	1	1	quantifier_head_attractor	SV-#
+deu_0046	deu	PL	Drei der Abteilungen	Jede der Abteilungen	brauchen mehr Personal.	46	2	1	quantifier_head_attractor	SV-#
+deu_0046	deu	SG	Jede der Abteilungen	Drei der Abteilungen	braucht mehr Personal.	46	2	1	quantifier_head_attractor	SV-#
+deu_0047	deu	PL	Einige der Projekte	Jedes der Projekte	stehen vor Problemen.	47	1	1	quantifier_head_attractor	SV-#
+deu_0047	deu	SG	Jedes der Projekte	Einige der Projekte	steht vor Problemen.	47	1	1	quantifier_head_attractor	SV-#
+deu_0048	deu	PL	Die meisten der Firmen	Einzelner der Firmen	kündigen neue Stellen an.	48	1	1	quantifier_head_attractor	SV-#
+deu_0048	deu	SG	Einzelner der Firmen	Die meisten der Firmen	kündigt neue Stellen an.	48	1	1	quantifier_head_attractor	SV-#
+deu_0049	deu	PL	Wenige der Bäume	Jeder der Bäume	zeigen Schäden.	49	1	1	quantifier_head_attractor	SV-#
+deu_0049	deu	SG	Jeder der Bäume	Wenige der Bäume	zeigt Schäden.	49	1	1	quantifier_head_attractor	SV-#
+deu_0050	deu	PL	Die jungen Journalisten aus Berlin	Der junge Journalist aus Berlin	haben gestern einen langen Artikel veröffentlicht.	50	2	0	aux_or_modal	SV-#
+deu_0050	deu	SG	Der junge Journalist aus Berlin	Die jungen Journalisten aus Berlin	hat gestern einen langen Artikel veröffentlicht.	50	2	0	aux_or_modal	SV-#
+deu_0051	deu	PL	Erfahrene Lehrer an der Schule	Ein erfahrener Lehrer an der Schule	können den Schülern bei den Hausaufgaben helfen.	51	2	0	aux_or_modal	SV-#
+deu_0051	deu	SG	Ein erfahrener Lehrer an der Schule	Erfahrene Lehrer an der Schule	kann den Schülern bei den Hausaufgaben helfen.	51	2	0	aux_or_modal	SV-#
+deu_0052	deu	PL	Die kleinen Museen in der Altstadt	Das kleine Museum in der Altstadt	sind am Wochenende wieder geöffnet worden.	52	3	0	aux_or_modal	SV-#
+deu_0052	deu	SG	Das kleine Museum in der Altstadt	Die kleinen Museen in der Altstadt	ist am Wochenende wieder geöffnet worden.	52	3	0	aux_or_modal	SV-#
+deu_0053	deu	PL	Diese Studenten im dritten Semester	Dieser Student im dritten Semester	sollen die Prüfung im nächsten Jahr wiederholen.	53	2	0	aux_or_modal	SV-#
+deu_0053	deu	SG	Dieser Student im dritten Semester	Diese Studenten im dritten Semester	soll die Prüfung im nächsten Jahr wiederholen.	53	2	0	aux_or_modal	SV-#
+deu_0054	deu	PL	Meine Brüder aus Hamburg	Mein Bruder aus Hamburg	haben das Büro aufgeräumt.	54	1	0	aux_or_modal	SV-#
+deu_0054	deu	SG	Mein Bruder aus Hamburg	Meine Brüder aus Hamburg	hat das Büro aufgeräumt.	54	1	0	aux_or_modal	SV-#
+deu_0055	deu	PL	Die getigerten Katzen auf dem Sofa	Die getigerte Katze auf dem Sofa	können die Maus fangen.	55	2	0	aux_or_modal	SV-#
+deu_0055	deu	SG	Die getigerte Katze auf dem Sofa	Die getigerten Katzen auf dem Sofa	kann die Maus fangen.	55	2	0	aux_or_modal	SV-#
+deu_0056	deu	PL	Neue Volksparteien in der Region	Eine neue Volkspartei in der Region	sollen die Reformen durchsetzen.	56	2	0	aux_or_modal	SV-#
+deu_0056	deu	SG	Eine neue Volkspartei in der Region	Neue Volksparteien in der Region	soll die Reformen durchsetzen.	56	2	0	aux_or_modal	SV-#
+deu_0057	deu	PL	Die reißenden Flüsse nach dem langen Regen	Der reißende Fluss nach dem langen Regen	haben das Tal überflutet.	57	3	0	aux_or_modal	SV-#
+deu_0057	deu	SG	Der reißende Fluss nach dem langen Regen	Die reißenden Flüsse nach dem langen Regen	hat das Tal überflutet.	57	3	0	aux_or_modal	SV-#
+deu_0058	deu	PL	Diese Manuskripte, die letzte Woche eingereicht wurden	Dieses Manuskript, das letzte Woche eingereicht wurde	sind heute von der Redaktion korrigiert worden.	58	4	0	aux_or_modal	SV-#
+deu_0058	deu	SG	Dieses Manuskript, das letzte Woche eingereicht wurde	Diese Manuskripte, die letzte Woche eingereicht wurden	ist heute von der Redaktion korrigiert worden.	58	4	0	aux_or_modal	SV-#
+deu_0059	deu	PL	Die neuen Computer im Labor	Der neue Computer im Labor	können die verlorenen Daten wiederherstellen.	59	2	0	aux_or_modal	SV-#
+deu_0059	deu	SG	Der neue Computer im Labor	Die neuen Computer im Labor	kann die verlorenen Daten wiederherstellen.	59	2	0	aux_or_modal	SV-#
+deu_0060	deu	PL	die kleinen Kinder im Garten	das kleine Kind im Garten	spielen den ganzen Nachmittag.	60	1	0	irregular_plural	SV-#
+deu_0060	deu	SG	das kleine Kind im Garten	die kleinen Kinder im Garten	spielt den ganzen Nachmittag.	60	1	0	irregular_plural	SV-#
+deu_0061	deu	PL	die dicken Mäuse in der Küche	die dicke Maus in der Küche	fressen den Käse.	61	1	0	irregular_plural	SV-#
+deu_0061	deu	SG	die dicke Maus in der Küche	die dicken Mäuse in der Küche	frisst den Käse.	61	1	0	irregular_plural	SV-#
+deu_0062	deu	PL	mehrere alte Bücher im Regal	ein altes Buch im Regal	liegen ganz oben.	62	1	0	irregular_plural	SV-#
+deu_0062	deu	SG	ein altes Buch im Regal	mehrere alte Bücher im Regal	liegt ganz oben.	62	1	0	irregular_plural	SV-#
+deu_0063	deu	PL	die jungen Männer aus Berlin	der junge Mann aus Berlin	winken freundlich.	63	1	0	irregular_plural	SV-#
+deu_0063	deu	SG	der junge Mann aus Berlin	die jungen Männer aus Berlin	winkt freundlich.	63	1	0	irregular_plural	SV-#
+deu_0064	deu	PL	diese erfahrenen Frauen aus Hamburg	diese erfahrene Frau aus Hamburg	sprechen laut ins Mikrofon.	64	1	0	irregular_plural	SV-#
+deu_0064	deu	SG	diese erfahrene Frau aus Hamburg	diese erfahrenen Frauen aus Hamburg	spricht laut ins Mikrofon.	64	1	0	irregular_plural	SV-#
+deu_0065	deu	PL	die verletzten Füße im Verband	der verletzte Fuß im Verband	schmerzen seit gestern.	65	1	0	irregular_plural	SV-#
+deu_0065	deu	SG	der verletzte Fuß im Verband	die verletzten Füße im Verband	schmerzt seit gestern.	65	1	0	irregular_plural	SV-#
+deu_0066	deu	PL	meine losen Zähne	mein loser Zahn	tun seit dem Abend weh.	66	1	0	irregular_plural	SV-#
+deu_0066	deu	SG	mein loser Zahn	meine losen Zähne	tut seit dem Abend weh.	66	1	0	irregular_plural	SV-#
+deu_0067	deu	PL	die alten Bäume im Hof	der alte Baum im Hof	fallen gestern im Sturm um.	67	2	0	irregular_plural	SV-#
+deu_0067	deu	SG	der alte Baum im Hof	die alten Bäume im Hof	fällt gestern im Sturm um.	67	2	0	irregular_plural	SV-#
+deu_0068	deu	PL	diese schönen Häuser am Fluss	dieses schöne Haus am Fluss	stehen leer.	68	1	0	irregular_plural	SV-#
+deu_0068	deu	SG	dieses schöne Haus am Fluss	diese schönen Häuser am Fluss	steht leer.	68	1	0	irregular_plural	SV-#
+deu_0069	deu	PL	einige bunte Vögel auf dem Dach	ein bunter Vogel auf dem Dach	singen den ganzen Morgen.	69	1	0	irregular_plural	SV-#
+deu_0069	deu	SG	ein bunter Vogel auf dem Dach	einige bunte Vögel auf dem Dach	singt den ganzen Morgen.	69	1	0	irregular_plural	SV-#
+deu_0070	deu	PL	Die Lehrer, die die Schüler jeden Morgen kontrollieren	Der Lehrer, der die Schüler jeden Morgen kontrolliert	haben gestern einen Bericht geschrieben.	70	3	1	relative_clause_subject	SV-#
+deu_0070	deu	SG	Der Lehrer, der die Schüler jeden Morgen kontrolliert	Die Lehrer, die die Schüler jeden Morgen kontrollieren	hat gestern einen Bericht geschrieben.	70	3	1	relative_clause_subject	SV-#
+deu_0071	deu	PL	Hunde, die die Nachbarn oft füttern	Ein Hund, den die Nachbarn oft füttern	bellen die ganze Nacht.	71	2	1	relative_clause_subject	SV-#
+deu_0071	deu	SG	Ein Hund, den die Nachbarn oft füttern	Hunde, die die Nachbarn oft füttern	bellt die ganze Nacht.	71	2	1	relative_clause_subject	SV-#
+deu_0072	deu	PL	Diese Autos, die die Mechaniker gestern gründlich geprüft haben	Dieses Auto, das die Mechaniker gestern gründlich geprüft haben	stehen jetzt in der Garage.	72	3	1	relative_clause_subject	SV-#
+deu_0072	deu	SG	Dieses Auto, das die Mechaniker gestern gründlich geprüft haben	Diese Autos, die die Mechaniker gestern gründlich geprüft haben	steht jetzt in der Garage.	72	3	1	relative_clause_subject	SV-#
+deu_0073	deu	PL	Die Universitäten, in denen mehrere Institute an neuen Projekten arbeiten	Die Universität, in der mehrere Institute an neuen Projekten arbeiten	bieten dieses Semester neue Kurse an.	73	4	1	relative_clause_subject	SV-#
+deu_0073	deu	SG	Die Universität, in der mehrere Institute an neuen Projekten arbeiten	Die Universitäten, in denen mehrere Institute an neuen Projekten arbeiten	bietet dieses Semester neue Kurse an.	73	4	1	relative_clause_subject	SV-#
+deu_0074	deu	PL	Meine Bücher, die die Studenten gestern in der Vorlesung diskutiert haben	Mein Buch, das die Studenten gestern in der Vorlesung diskutiert haben	enthalten viele Fußnoten.	74	3	1	relative_clause_subject	SV-#
+deu_0074	deu	SG	Mein Buch, das die Studenten gestern in der Vorlesung diskutiert haben	Meine Bücher, die die Studenten gestern in der Vorlesung diskutiert haben	enthält viele Fußnoten.	74	3	1	relative_clause_subject	SV-#
+deu_0075	deu	PL	Die Brücken, die den Fluss überspannen	Die Brücke, die den Fluss überspannt	wurden letzten Sommer renoviert.	75	2	1	relative_clause_subject	SV-#
+deu_0075	deu	SG	Die Brücke, die den Fluss überspannt	Die Brücken, die den Fluss überspannen	wurde letzten Sommer renoviert.	75	2	1	relative_clause_subject	SV-#
+deu_0076	deu	PL	Diese Firmen, die mehrere Kunden in letzter Zeit verloren haben	Diese Firma, die mehrere Kunden in letzter Zeit verloren hat	schließen heute eine Filiale.	76	3	1	relative_clause_subject	SV-#
+deu_0076	deu	SG	Diese Firma, die mehrere Kunden in letzter Zeit verloren hat	Diese Firmen, die mehrere Kunden in letzter Zeit verloren haben	schließt heute eine Filiale.	76	3	1	relative_clause_subject	SV-#
+deu_0077	deu	PL	Gemälde, die viele Besucher im Museum bewundern	Ein Gemälde, das viele Besucher im Museum bewundern	gehören der Stiftung.	77	3	1	relative_clause_subject	SV-#
+deu_0077	deu	SG	Ein Gemälde, das viele Besucher im Museum bewundern	Gemälde, die viele Besucher im Museum bewundern	gehört der Stiftung.	77	3	1	relative_clause_subject	SV-#
+deu_0078	deu	PL	Die Politiker, die die Berater konsultieren	Der Politiker, der die Berater konsultiert	verteidigen ihre Entscheidung.	78	2	1	relative_clause_subject	SV-#
+deu_0078	deu	SG	Der Politiker, der die Berater konsultiert	Die Politiker, die die Berater konsultieren	verteidigt seine Entscheidung.	78	2	1	relative_clause_subject	SV-#
+deu_0079	deu	PL	Alle Computer, die die neuesten Updates installiert haben	Jeder Computer, der die neuesten Updates installiert hat	funktionieren nicht mehr.	79	3	1	relative_clause_subject	SV-#
+deu_0079	deu	SG	Jeder Computer, der die neuesten Updates installiert hat	Alle Computer, die die neuesten Updates installiert haben	funktioniert nicht mehr.	79	3	1	relative_clause_subject	SV-#
+deu_0080	deu	PL	Der Dirigent probte lange, aber die Chöre	Der Dirigent probte lange, aber der Chor	singen noch eine Zugabe.	80	1	1	non_initial_subject	SV-#
+deu_0080	deu	SG	Der Dirigent probte lange, aber der Chor	Der Dirigent probte lange, aber die Chöre	singt noch eine Zugabe.	80	1	1	non_initial_subject	SV-#
+deu_0081	deu	PL	Weil der Text fertig war, prüfte der Chefredakteur ihn, und die Redaktionen	Weil der Text fertig war, prüfte der Chefredakteur ihn, und die Redaktion	veröffentlichen den Artikel heute.	81	3	1	non_initial_subject	SV-#
+deu_0081	deu	SG	Weil der Text fertig war, prüfte der Chefredakteur ihn, und die Redaktion	Weil der Text fertig war, prüfte der Chefredakteur ihn, und die Redaktionen	veröffentlicht den Artikel heute.	81	3	1	non_initial_subject	SV-#
+deu_0082	deu	PL	Der Ingenieur kontrollierte die Leitungen, und die Roboter	Der Ingenieur kontrollierte die Leitungen, und der Roboter	reparieren sofort das Teil.	82	1	1	non_initial_subject	SV-#
+deu_0082	deu	SG	Der Ingenieur kontrollierte die Leitungen, und der Roboter	Der Ingenieur kontrollierte die Leitungen, und die Roboter	repariert sofort das Teil.	82	1	1	non_initial_subject	SV-#
+deu_0083	deu	PL	Nachdem die Wetterdienste Sturmwarnungen ausgegeben hatten, sperrte die Behörde die Brücke, doch die Flüsse	Nachdem die Wetterdienste Sturmwarnungen ausgegeben hatten, sperrte die Behörde die Brücke, doch der Fluss	überschwemmen das Ufer.	83	3	1	non_initial_subject	SV-#
+deu_0083	deu	SG	Nachdem die Wetterdienste Sturmwarnungen ausgegeben hatten, sperrte die Behörde die Brücke, doch der Fluss	Nachdem die Wetterdienste Sturmwarnungen ausgegeben hatten, sperrte die Behörde die Brücke, doch die Flüsse	überschwemmt das Ufer.	83	3	1	non_initial_subject	SV-#
+deu_0084	deu	PL	Die Nutzerin meldete den Fehler, und die Programme	Die Nutzerin meldete den Fehler, und das Programm	öffnen die Datei korrekt.	84	1	1	non_initial_subject	SV-#
+deu_0084	deu	SG	Die Nutzerin meldete den Fehler, und das Programm	Die Nutzerin meldete den Fehler, und die Programme	öffnet die Datei korrekt.	84	1	1	non_initial_subject	SV-#
+deu_0085	deu	PL	Der Trainer gab klare Anweisungen, doch meine Hunde	Der Trainer gab klare Anweisungen, doch mein Hund	begrüßen jeden Besucher freundlich.	85	1	1	non_initial_subject	SV-#
+deu_0085	deu	SG	Der Trainer gab klare Anweisungen, doch mein Hund	Der Trainer gab klare Anweisungen, doch meine Hunde	begrüßt jeden Besucher freundlich.	85	1	1	non_initial_subject	SV-#
+deu_0086	deu	PL	Der Professor las mehrere Kapitel, und die Bücher	Der Professor las mehrere Kapitel, und das Buch	beeinflussen die öffentliche Debatte.	86	2	1	non_initial_subject	SV-#
+deu_0086	deu	SG	Der Professor las mehrere Kapitel, und das Buch	Der Professor las mehrere Kapitel, und die Bücher	beeinflusst die öffentliche Debatte.	86	2	1	non_initial_subject	SV-#
+deu_0087	deu	PL	Als das Festival begann, eröffnete der Bürgermeister die Bühne, und die Städte	Als das Festival begann, eröffnete der Bürgermeister die Bühne, und die Stadt	feiern das Ereignis laut.	87	3	1	non_initial_subject	SV-#
+deu_0087	deu	SG	Als das Festival begann, eröffnete der Bürgermeister die Bühne, und die Stadt	Als das Festival begann, eröffnete der Bürgermeister die Bühne, und die Städte	feiert das Ereignis laut.	87	3	1	non_initial_subject	SV-#
+deu_0088	deu	PL	Die Kuratorin hing die Ausstellung auf, aber die Fotos	Die Kuratorin hing die Ausstellung auf, aber das Foto	zeigen ein bekanntes Motiv.	88	2	1	non_initial_subject	SV-#
+deu_0088	deu	SG	Die Kuratorin hing die Ausstellung auf, aber das Foto	Die Kuratorin hing die Ausstellung auf, aber die Fotos	zeigt ein bekanntes Motiv.	88	2	1	non_initial_subject	SV-#
+deu_0089	deu	PL	Der Redner präsentierte seinen Plan, und die Ideen	Der Redner präsentierte seinen Plan, und die Idee	inspirieren viele Zuhörer.	89	1	1	non_initial_subject	SV-#
+deu_0089	deu	SG	Der Redner präsentierte seinen Plan, und die Idee	Der Redner präsentierte seinen Plan, und die Ideen	inspiriert viele Zuhörer.	89	1	1	non_initial_subject	SV-#
+deu_0090	deu	PL	Gestern, sie auch	Gestern, er auch	lesen das Buch.	90	2	0	pronoun_subject	SV-#
+deu_0090	deu	SG	Gestern, er auch	Gestern, sie auch	liest das Buch.	90	2	0	pronoun_subject	SV-#
+deu_0091	deu	PL	Am Nachmittag, sie auch	Am Nachmittag, er auch	schreiben den Bericht.	91	2	0	pronoun_subject	SV-#
+deu_0091	deu	SG	Am Nachmittag, er auch	Am Nachmittag, sie auch	schreibt den Bericht.	91	2	0	pronoun_subject	SV-#
+deu_0092	deu	PL	Sie	Er	schlafen tief.	92	1	0	pronoun_subject	SV-#
+deu_0092	deu	SG	Er	Sie	schläft tief.	92	1	0	pronoun_subject	SV-#
+deu_0093	deu	PL	Jeden Morgen, sie noch	Jeden Morgen, er noch	trinken Kaffee.	93	2	0	pronoun_subject	SV-#
+deu_0093	deu	SG	Jeden Morgen, er noch	Jeden Morgen, sie noch	trinkt Kaffee.	93	2	0	pronoun_subject	SV-#
+deu_0094	deu	PL	In diesem Fall, sie auch	In diesem Fall, es auch	sind wichtig.	94	2	0	pronoun_subject	SV-#
+deu_0094	deu	SG	In diesem Fall, es auch	In diesem Fall, sie auch	ist wichtig.	94	2	0	pronoun_subject	SV-#
+deu_0095	deu	PL	Sie	Er	haben die Wahl gewonnen.	95	1	0	pronoun_subject	SV-#
+deu_0095	deu	SG	Er	Sie	hat die Wahl gewonnen.	95	1	0	pronoun_subject	SV-#
+deu_0096	deu	PL	Trotzdem, sie auch	Trotzdem, er auch	arbeiten bis spät.	96	2	0	pronoun_subject	SV-#
+deu_0096	deu	SG	Trotzdem, er auch	Trotzdem, sie auch	arbeitet bis spät.	96	2	0	pronoun_subject	SV-#
+deu_0097	deu	PL	Heute, sie auch	Heute, es auch	funktionieren nicht.	97	2	0	pronoun_subject	SV-#
+deu_0097	deu	SG	Heute, es auch	Heute, sie auch	funktioniert nicht.	97	2	0	pronoun_subject	SV-#
+deu_0098	deu	PL	Sie	Er	singen laut.	98	1	0	pronoun_subject	SV-#
+deu_0098	deu	SG	Er	Sie	singt laut.	98	1	0	pronoun_subject	SV-#
+deu_0099	deu	PL	Kurz gesagt, sie auch	Kurz gesagt, er auch	denken daran.	99	2	0	pronoun_subject	SV-#
+deu_0099	deu	SG	Kurz gesagt, er auch	Kurz gesagt, sie auch	denkt daran.	99	2	0	pronoun_subject	SV-#

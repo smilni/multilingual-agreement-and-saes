@@ -1,0 +1,141 @@
+pair_id	language	target_number	good_prefix	bad_prefix	continuation	source_idx	distance	has_attractor	template_id	phenomenon_family
+spa_0000	spa	PL	Los médicos	El médico	atienden al paciente	0	1	0	simple_np	SV-#
+spa_0000	spa	SG	El médico	Los médicos	atiende al paciente	0	1	0	simple_np	SV-#
+spa_0001	spa	PL	Unos estudiantes	Un estudiante	entregaron el proyecto	1	1	0	simple_np	SV-#
+spa_0001	spa	SG	Un estudiante	Unos estudiantes	entregó el proyecto	1	1	0	simple_np	SV-#
+spa_0002	spa	PL	Estas empresas	Esta empresa	presentaron nuevas propuestas	2	1	0	simple_np	SV-#
+spa_0002	spa	SG	Esta empresa	Estas empresas	presentó nuevas propuestas	2	1	0	simple_np	SV-#
+spa_0003	spa	PL	Mis perros	Mi perro	comieron la comida	3	1	0	simple_np	SV-#
+spa_0003	spa	SG	Mi perro	Mis perros	comió la comida	3	1	0	simple_np	SV-#
+spa_0004	spa	PL	Profesores	El profesor	corrigieron los exámenes	4	1	0	simple_np	SV-#
+spa_0004	spa	SG	El profesor	Profesores	corrigió los exámenes	4	1	0	simple_np	SV-#
+spa_0005	spa	PL	Las novelas	La novela	recibieron un premio	5	1	0	simple_np	SV-#
+spa_0005	spa	SG	La novela	Las novelas	recibió un premio	5	1	0	simple_np	SV-#
+spa_0006	spa	PL	Muchos árboles	Un árbol	cayeron durante la tormenta	6	1	0	simple_np	SV-#
+spa_0006	spa	SG	Un árbol	Muchos árboles	cayó durante la tormenta	6	1	0	simple_np	SV-#
+spa_0007	spa	PL	Nuestras escuelas	Nuestra escuela	cerraron por reformas	7	1	0	simple_np	SV-#
+spa_0007	spa	SG	Nuestra escuela	Nuestras escuelas	cerró por reformas	7	1	0	simple_np	SV-#
+spa_0008	spa	PL	Esos documentos	Ese documento	contienen información confidencial	8	1	0	simple_np	SV-#
+spa_0008	spa	SG	Ese documento	Esos documentos	contiene información confidencial	8	1	0	simple_np	SV-#
+spa_0009	spa	PL	Las torres	La torre	colapsaron tras el temblor	9	1	0	simple_np	SV-#
+spa_0009	spa	SG	La torre	Las torres	colapsó tras el temblor	9	1	0	simple_np	SV-#
+spa_0010	spa	PL	Los perros pequeños	El perro pequeño	ladran en el jardín por la noche.	10	2	0	adj_np	SV-#
+spa_0010	spa	SG	El perro pequeño	Los perros pequeños	ladra en el jardín por la noche.	10	2	0	adj_np	SV-#
+spa_0011	spa	PL	Las novelas viejas	La novela vieja	contienen varias anotaciones del autor.	11	2	0	adj_np	SV-#
+spa_0011	spa	SG	La novela vieja	Las novelas viejas	contiene varias anotaciones del autor.	11	2	0	adj_np	SV-#
+spa_0012	spa	PL	Unos árboles altos	Un árbol alto	sombrean la plaza central.	12	2	0	adj_np	SV-#
+spa_0012	spa	SG	Un árbol alto	Unos árboles altos	sombra la plaza central.	12	2	0	adj_np	SV-#
+spa_0013	spa	PL	Estas máquinas nuevas	Esta máquina nueva	funcionan con energía solar.	13	2	0	adj_np	SV-#
+spa_0013	spa	SG	Esta máquina nueva	Estas máquinas nuevas	funciona con energía solar.	13	2	0	adj_np	SV-#
+spa_0014	spa	PL	Mis hermanas jóvenes	Mi hermana joven	estudian biología en la universidad.	14	2	0	adj_np	SV-#
+spa_0014	spa	SG	Mi hermana joven	Mis hermanas jóvenes	estudia biología en la universidad.	14	2	0	adj_np	SV-#
+spa_0015	spa	PL	Aquellos cuadros raros	Aquel cuadro raro	cuelgan en el museo local.	15	2	0	adj_np	SV-#
+spa_0015	spa	SG	Aquel cuadro raro	Aquellos cuadros raros	cuelga en el museo local.	15	2	0	adj_np	SV-#
+spa_0016	spa	PL	Las bibliotecas públicas	La biblioteca pública	ofrecen talleres gratuitos cada mes.	16	2	0	adj_np	SV-#
+spa_0016	spa	SG	La biblioteca pública	Las bibliotecas públicas	ofrece talleres gratuitos cada mes.	16	2	0	adj_np	SV-#
+spa_0017	spa	PL	Los telescopios antiguos	El telescopio antiguo	permiten observar galaxias lejanas.	17	2	0	adj_np	SV-#
+spa_0017	spa	SG	El telescopio antiguo	Los telescopios antiguos	permite observar galaxias lejanas.	17	2	0	adj_np	SV-#
+spa_0018	spa	PL	Sus gatos negros	Su gato negro	duermen todo el día en el sofá.	18	2	0	adj_np	SV-#
+spa_0018	spa	SG	Su gato negro	Sus gatos negros	duerme todo el día en el sofá.	18	2	0	adj_np	SV-#
+spa_0019	spa	PL	Las ideas brillantes	La idea brillante	resuelven el problema principal.	19	2	0	adj_np	SV-#
+spa_0019	spa	SG	La idea brillante	Las ideas brillantes	resuelve el problema principal.	19	2	0	adj_np	SV-#
+spa_0020	spa	PL	Los estudiantes de segundo año	El estudiante de segundo año	estudian con mucho entusiasmo en la biblioteca	20	4	0	long_subject_no_attractor	SV-#
+spa_0020	spa	SG	El estudiante de segundo año	Los estudiantes de segundo año	estudia con mucho entusiasmo en la biblioteca	20	4	0	long_subject_no_attractor	SV-#
+spa_0021	spa	PL	Unas novelas extensas y antiguas	Una novela extensa y antigua	captaron la atención del público rápidamente	21	4	0	long_subject_no_attractor	SV-#
+spa_0021	spa	SG	Una novela extensa y antigua	Unas novelas extensas y antiguas	captó la atención del público rápidamente	21	4	0	long_subject_no_attractor	SV-#
+spa_0022	spa	PL	Mis hermanos mayores	Mi hermano mayor	abrieron la caja con cuidado	22	4	0	long_subject_no_attractor	SV-#
+spa_0022	spa	SG	Mi hermano mayor	Mis hermanos mayores	abrió la caja con cuidado	22	4	0	long_subject_no_attractor	SV-#
+spa_0023	spa	PL	Esos puentes metálicos largos	Ese puente metálico largo	se construyeron sobre el río hace cinco años	23	4	0	long_subject_no_attractor	SV-#
+spa_0023	spa	SG	Ese puente metálico largo	Esos puentes metálicos largos	se construyó sobre el río hace cinco años	23	4	0	long_subject_no_attractor	SV-#
+spa_0024	spa	PL	Cinco consejos prácticos	Tres consejos prácticos	me ayudaron a organizar mejor mi tiempo	24	4	0	long_subject_no_attractor	SV-#
+spa_0024	spa	SG	Tres consejos prácticos	Cinco consejos prácticos	me ayudó a organizar mejor mi tiempo	24	4	0	long_subject_no_attractor	SV-#
+spa_0025	spa	PL	Las jóvenes profesoras dedicadas	La joven profesora dedicada	decidieron cambiar el plan de clase	25	4	0	long_subject_no_attractor	SV-#
+spa_0025	spa	SG	La joven profesora dedicada	Las jóvenes profesoras dedicadas	decidió cambiar el plan de clase	25	4	0	long_subject_no_attractor	SV-#
+spa_0026	spa	PL	Unos caballos blancos y fuertes	Un caballo blanco y fuerte	corren por el prado cada mañana	26	4	0	long_subject_no_attractor	SV-#
+spa_0026	spa	SG	Un caballo blanco y fuerte	Unos caballos blancos y fuertes	corre por el prado cada mañana	26	4	0	long_subject_no_attractor	SV-#
+spa_0027	spa	PL	Los satélites artificiales recientes	El satélite artificial reciente	aparecieron en las imágenes del radar	27	4	0	long_subject_no_attractor	SV-#
+spa_0027	spa	SG	El satélite artificial reciente	Los satélites artificiales recientes	apareció en las imágenes del radar	27	4	0	long_subject_no_attractor	SV-#
+spa_0028	spa	PL	Estos ordenadores portátiles nuevos	Este ordenador portátil nuevo	funcionan sin problemas después de la actualización	28	4	0	long_subject_no_attractor	SV-#
+spa_0028	spa	SG	Este ordenador portátil nuevo	Estos ordenadores portátiles nuevos	funciona sin problemas después de la actualización	28	4	0	long_subject_no_attractor	SV-#
+spa_0029	spa	PL	Las altas montañas nevadas	La alta montaña nevada	crecieron en importancia como destinos turísticos	29	4	0	long_subject_no_attractor	SV-#
+spa_0029	spa	SG	La alta montaña nevada	Las altas montañas nevadas	creció en importancia como destino turístico	29	4	0	long_subject_no_attractor	SV-#
+spa_0030	spa	PL	Los profesores con los estudiantes	El profesor con los estudiantes	corrigen el examen de la clase	30	4	1	pp_attractor	SV-#
+spa_0030	spa	SG	El profesor con los estudiantes	Los profesores con los estudiantes	corrige el examen de la clase	30	4	1	pp_attractor	SV-#
+spa_0031	spa	PL	Unas médicas junto a varios enfermos	Una médica junto a varios enfermos	explican el tratamiento a la familia	31	4	1	pp_attractor	SV-#
+spa_0031	spa	SG	Una médica junto a varios enfermos	Unas médicas junto a varios enfermos	explica el tratamiento a la familia	31	4	1	pp_attractor	SV-#
+spa_0032	spa	PL	Estos árboles detrás de dos casas	Este árbol detrás de dos casas	sostienen la rama más grande	32	4	1	pp_attractor	SV-#
+spa_0032	spa	SG	Este árbol detrás de dos casas	Estos árboles detrás de dos casas	sostiene la rama más grande	32	4	1	pp_attractor	SV-#
+spa_0033	spa	PL	Mis novelas con varias ilustraciones	Mi novela con varias ilustraciones	recibieron un premio literario	33	4	1	pp_attractor	SV-#
+spa_0033	spa	SG	Mi novela con varias ilustraciones	Mis novelas con varias ilustraciones	recibió un premio literario	33	4	1	pp_attractor	SV-#
+spa_0034	spa	PL	Los comités entre los expertos	El comité entre los expertos	decidieron la fecha del evento	34	4	1	pp_attractor	SV-#
+spa_0034	spa	SG	El comité entre los expertos	Los comités entre los expertos	decidió la fecha del evento	34	4	1	pp_attractor	SV-#
+spa_0035	spa	PL	Unas islas cerca de dos volcanes	Una isla cerca de dos volcanes	albergan especies endémicas	35	4	1	pp_attractor	SV-#
+spa_0035	spa	SG	Una isla cerca de dos volcanes	Unas islas cerca de dos volcanes	alberga especies endémicas	35	4	1	pp_attractor	SV-#
+spa_0036	spa	PL	Los robots dentro de la fábrica	El robot dentro de la fábrica	reparan las piezas defectuosas	36	4	1	pp_attractor	SV-#
+spa_0036	spa	SG	El robot dentro de la fábrica	Los robots dentro de la fábrica	repara las piezas defectuosas	36	4	1	pp_attractor	SV-#
+spa_0037	spa	PL	Esos afectos entre dos hermanos	Ese afecto entre dos hermanos	perduran con los años	37	4	1	pp_attractor	SV-#
+spa_0037	spa	SG	Ese afecto entre dos hermanos	Esos afectos entre dos hermanos	perdura con los años	37	4	1	pp_attractor	SV-#
+spa_0038	spa	PL	Unas cartas desde el director	Una carta desde el director	lamentan los recientes cambios	38	4	1	pp_attractor	SV-#
+spa_0038	spa	SG	Una carta desde el director	Unas cartas desde el director	lamenta los recientes cambios	38	4	1	pp_attractor	SV-#
+spa_0039	spa	PL	Los ríos junto a unas piedras	El río junto a unas piedras	forman nuevos meandros cada temporada	39	4	1	pp_attractor	SV-#
+spa_0039	spa	SG	El río junto a unas piedras	Los ríos junto a unas piedras	forma nuevos meandros cada temporada	39	4	1	pp_attractor	SV-#
+spa_0040	spa	PL	Los profesores de historia	El profesor de historia	han corregido los exámenes esta mañana	40	3	0	perfect_aux	SV-#
+spa_0040	spa	SG	El profesor de historia	Los profesores de historia	ha corregido los exámenes esta mañana	40	3	0	perfect_aux	SV-#
+spa_0041	spa	PL	Estas computadoras portátiles	Esta computadora portátil	están funcionando correctamente desde ayer	41	3	0	perfect_aux	SV-#
+spa_0041	spa	SG	Esta computadora portátil	Estas computadoras portátiles	está funcionando correctamente desde ayer	41	3	0	perfect_aux	SV-#
+spa_0042	spa	PL	Unos pintores locales	Un pintor local	van a restaurar el mural este fin de semana	42	3	0	perfect_aux	SV-#
+spa_0042	spa	SG	Un pintor local	Unos pintores locales	va a restaurar el mural este fin de semana	42	3	0	perfect_aux	SV-#
+spa_0043	spa	PL	Mis hermanas mayores	Mi hermana mayor	pueden terminar el informe hoy	43	3	0	perfect_aux	SV-#
+spa_0043	spa	SG	Mi hermana mayor	Mis hermanas mayores	puede terminar el informe hoy	43	3	0	perfect_aux	SV-#
+spa_0044	spa	PL	Las bibliotecas municipales	La biblioteca municipal	deben abrir a las nueve	44	3	0	perfect_aux	SV-#
+spa_0044	spa	SG	La biblioteca municipal	Las bibliotecas municipales	debe abrir a las nueve	44	3	0	perfect_aux	SV-#
+spa_0045	spa	PL	Esos perros callejeros	Ese perro callejero	tienen miedo de los fuegos artificiales	45	3	0	perfect_aux	SV-#
+spa_0045	spa	SG	Ese perro callejero	Esos perros callejeros	tiene miedo de los fuegos artificiales	45	3	0	perfect_aux	SV-#
+spa_0046	spa	PL	Mis contratos nuevos	Mi contrato nuevo	tienen cláusulas muy claras	46	3	0	perfect_aux	SV-#
+spa_0046	spa	SG	Mi contrato nuevo	Mis contratos nuevos	tiene cláusulas muy claras	46	3	0	perfect_aux	SV-#
+spa_0047	spa	PL	Las empresas tecnológicas	La empresa tecnológica	siguen desarrollando la aplicación	47	3	0	perfect_aux	SV-#
+spa_0047	spa	SG	La empresa tecnológica	Las empresas tecnológicas	sigue desarrollando la aplicación	47	3	0	perfect_aux	SV-#
+spa_0048	spa	PL	Unos ríos de montaña	Un río de montaña	comienzan a mostrar signos de sequía	48	3	0	perfect_aux	SV-#
+spa_0048	spa	SG	Un río de montaña	Unos ríos de montaña	comienza a mostrar signos de sequía	48	3	0	perfect_aux	SV-#
+spa_0049	spa	PL	Estas novelas breves	Esta novela breve	empiezan a interesar a los jóvenes lectores	49	3	0	perfect_aux	SV-#
+spa_0049	spa	SG	Esta novela breve	Estas novelas breves	empieza a interesar a los jóvenes lectores	49	3	0	perfect_aux	SV-#
+spa_0050	spa	PL	Las flores	La flor	empezaron a perder pétalos lentamente	50	2	0	irregular_plural	SV-#
+spa_0050	spa	SG	La flor	Las flores	empezó a perder pétalos lentamente	50	2	0	irregular_plural	SV-#
+spa_0051	spa	PL	Los lápices	El lápiz	se rompieron en la mesa	51	2	0	irregular_plural	SV-#
+spa_0051	spa	SG	El lápiz	Los lápices	se rompió en la mesa	51	2	0	irregular_plural	SV-#
+spa_0052	spa	PL	Las aguas	El agua	se enturbiaron después de la lluvia	52	2	0	irregular_plural	SV-#
+spa_0052	spa	SG	El agua	Las aguas	se enturbió después de la lluvia	52	2	0	irregular_plural	SV-#
+spa_0053	spa	PL	Unos niños	Un niño	corrieron hacia la puerta	53	2	0	irregular_plural	SV-#
+spa_0053	spa	SG	Un niño	Unos niños	corrió hacia la puerta	53	2	0	irregular_plural	SV-#
+spa_0054	spa	PL	Mis tesis	Mi tesis	fueron aceptadas por el comité	54	2	0	irregular_plural	SV-#
+spa_0054	spa	SG	Mi tesis	Mis tesis	fue aceptada por el comité	54	2	0	irregular_plural	SV-#
+spa_0055	spa	PL	Estos países	Este país	experimentaron un cambio político	55	2	0	irregular_plural	SV-#
+spa_0055	spa	SG	Este país	Estos países	experimentó un cambio político	55	2	0	irregular_plural	SV-#
+spa_0056	spa	PL	Las gentes	La gente	aplaudieron al orador	56	2	0	irregular_plural	SV-#
+spa_0056	spa	SG	La gente	Las gentes	aplaudió al orador	56	2	0	irregular_plural	SV-#
+spa_0057	spa	PL	Esos museos	Ese museo	comenzaron las visitas guiadas	57	2	0	irregular_plural	SV-#
+spa_0057	spa	SG	Ese museo	Esos museos	comenzó la visita guiada	57	2	0	irregular_plural	SV-#
+spa_0058	spa	PL	Unas rosas	Una rosa	llegaron con el paquete	58	2	0	irregular_plural	SV-#
+spa_0058	spa	SG	Una rosa	Unas rosas	llegó con el paquete	58	2	0	irregular_plural	SV-#
+spa_0059	spa	PL	Los jueces	El juez	decidieron posponer la audiencia	59	2	0	irregular_plural	SV-#
+spa_0059	spa	SG	El juez	Los jueces	decidió posponer la audiencia	59	2	0	irregular_plural	SV-#
+spa_0060	spa	PL	Los profesores que conocen a los estudiantes	El profesor que conoce a los estudiantes	examinan los ejercicios en clase.	60	5	1	relative_clause_subject	SV-#
+spa_0060	spa	SG	El profesor que conoce a los estudiantes	Los profesores que conocen a los estudiantes	examina los ejercicios en clase.	60	5	1	relative_clause_subject	SV-#
+spa_0061	spa	PL	Unas novelas que mencionan varios hechos históricos	Una novela que menciona varios hechos históricos	fueron traducidas a tres idiomas.	61	5	1	relative_clause_subject	SV-#
+spa_0061	spa	SG	Una novela que menciona varios hechos históricos	Unas novelas que mencionan varios hechos históricos	fue traducida a tres idiomas.	61	5	1	relative_clause_subject	SV-#
+spa_0062	spa	PL	Estos museos que guardan pinturas de artistas locales	Este museo que guarda pinturas de artistas locales	abren sus puertas al público los sábados.	62	5	1	relative_clause_subject	SV-#
+spa_0062	spa	SG	Este museo que guarda pinturas de artistas locales	Estos museos que guardan pinturas de artistas locales	abre sus puertas al público los sábados.	62	5	1	relative_clause_subject	SV-#
+spa_0063	spa	PL	Mis vecinos que cuidan al perro del edificio	Mi vecino que cuida al perro del edificio	reclaman más atención a las zonas comunes.	63	5	1	relative_clause_subject	SV-#
+spa_0063	spa	SG	Mi vecino que cuida al perro del edificio	Mis vecinos que cuidan al perro del edificio	reclama más atención a las zonas comunes.	63	5	1	relative_clause_subject	SV-#
+spa_0064	spa	PL	Los comités que tienen miembros de varios países	El comité que tiene miembros de varios países	deciden las prioridades del proyecto.	64	5	1	relative_clause_subject	SV-#
+spa_0064	spa	SG	El comité que tiene miembros de varios países	Los comités que tienen miembros de varios países	decide las prioridades del proyecto.	64	5	1	relative_clause_subject	SV-#
+spa_0065	spa	PL	Unos barcos que transportan contenedores enormes	Un barco que transporta contenedores enormes	llegan mañana al puerto.	65	5	1	relative_clause_subject	SV-#
+spa_0065	spa	SG	Un barco que transporta contenedores enormes	Unos barcos que transportan contenedores enormes	llega mañana al puerto.	65	5	1	relative_clause_subject	SV-#
+spa_0066	spa	PL	Las cartas que solicitan información técnica	La carta que solicita información técnica	esperan respuesta del departamento.	66	5	1	relative_clause_subject	SV-#
+spa_0066	spa	SG	La carta que solicita información técnica	Las cartas que solicitan información técnica	espera respuesta del departamento.	66	5	1	relative_clause_subject	SV-#
+spa_0067	spa	PL	Los árboles que dan sombra a la plaza	El árbol que da sombra a la plaza	han crecido mucho este año.	67	5	1	relative_clause_subject	SV-#
+spa_0067	spa	SG	El árbol que da sombra a la plaza	Los árboles que dan sombra a la plaza	ha crecido mucho este año.	67	5	1	relative_clause_subject	SV-#
+spa_0068	spa	PL	Unas máquinas que procesan los envases usados	Una máquina que procesa los envases usados	funcionan con energía solar.	68	5	1	relative_clause_subject	SV-#
+spa_0068	spa	SG	Una máquina que procesa los envases usados	Unas máquinas que procesan los envases usados	funciona con energía solar.	68	5	1	relative_clause_subject	SV-#
+spa_0069	spa	PL	Los poetas que escribieron sobre ciudades pequeñas	El poeta que escribió sobre ciudades pequeñas	recibieron un premio nacional.	69	5	1	relative_clause_subject	SV-#
+spa_0069	spa	SG	El poeta que escribió sobre ciudades pequeñas	Los poetas que escribieron sobre ciudades pequeñas	recibió un premio nacional.	69	5	1	relative_clause_subject	SV-#

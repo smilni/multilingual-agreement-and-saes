@@ -1,0 +1,141 @@
+pair_id	language	target_number	good_prefix	bad_prefix	continuation	source_idx	distance	has_attractor	template_id	phenomenon_family
+eng_0000	eng	PL	The teachers	The teacher	correct the exams for the class.	0	1	0	simple_np	SV-#
+eng_0000	eng	SG	The teacher	The teachers	corrects the exams for the class.	0	1	0	simple_np	SV-#
+eng_0001	eng	PL	Some dogs	A dog	bark at the passerby every morning.	1	1	0	simple_np	SV-#
+eng_0001	eng	SG	A dog	Some dogs	barks at the passerby every morning.	1	1	0	simple_np	SV-#
+eng_0002	eng	PL	These companies	This company	announce a new product line today.	2	1	0	simple_np	SV-#
+eng_0002	eng	SG	This company	These companies	announces a new product line today.	2	1	0	simple_np	SV-#
+eng_0003	eng	PL	My children	My child	play the piano after school.	3	1	0	simple_np	SV-#
+eng_0003	eng	SG	My child	My children	plays the piano after school.	3	1	0	simple_np	SV-#
+eng_0004	eng	PL	Several studies	A study	show a correlation between sleep and mood.	4	1	0	simple_np	SV-#
+eng_0004	eng	SG	A study	Several studies	shows a correlation between sleep and mood.	4	1	0	simple_np	SV-#
+eng_0005	eng	PL	These paintings	This painting	hang on the gallery wall.	5	1	0	simple_np	SV-#
+eng_0005	eng	SG	This painting	These paintings	hangs on the gallery wall.	5	1	0	simple_np	SV-#
+eng_0006	eng	PL	Their policies	Their policy	affect employee schedules next month.	6	1	0	simple_np	SV-#
+eng_0006	eng	SG	Their policy	Their policies	affects employee schedules next month.	6	1	0	simple_np	SV-#
+eng_0007	eng	PL	Students	The student	study the chapter before the exam.	7	1	0	simple_np	SV-#
+eng_0007	eng	SG	The student	Students	studies the chapter before the exam.	7	1	0	simple_np	SV-#
+eng_0008	eng	PL	Those mountains	That mountain	erode slowly during heavy rain.	8	1	0	simple_np	SV-#
+eng_0008	eng	SG	That mountain	Those mountains	erodes slowly during heavy rain.	8	1	0	simple_np	SV-#
+eng_0009	eng	PL	Our teams	Our team	celebrate the victory tonight.	9	1	0	simple_np	SV-#
+eng_0009	eng	SG	Our team	Our teams	celebrates the victory tonight.	9	1	0	simple_np	SV-#
+eng_0010	eng	PL	the big dogs	the big dog	bark at the mailman	10	2	0	adj_np	SV-#
+eng_0010	eng	SG	the big dog	the big dogs	barks at the mailman	10	2	0	adj_np	SV-#
+eng_0011	eng	PL	some young scientists	a young scientist	publish a paper every year	11	2	0	adj_np	SV-#
+eng_0011	eng	SG	a young scientist	some young scientists	publishes a paper every year	11	2	0	adj_np	SV-#
+eng_0012	eng	PL	these ancient trees	this ancient tree	shed their leaves in autumn	12	2	0	adj_np	SV-#
+eng_0012	eng	SG	this ancient tree	these ancient trees	sheds its leaves in autumn	12	2	0	adj_np	SV-#
+eng_0013	eng	PL	the red bicycles	the red bicycle	sit by the cafe rack	13	2	0	adj_np	SV-#
+eng_0013	eng	SG	the red bicycle	the red bicycles	sits by the cafe rack	13	2	0	adj_np	SV-#
+eng_0014	eng	PL	my clever assistants	my clever assistant	solve complex problems quickly	14	2	0	adj_np	SV-#
+eng_0014	eng	SG	my clever assistant	my clever assistants	solves complex problems quickly	14	2	0	adj_np	SV-#
+eng_0015	eng	PL	the old manuscripts	the old manuscript	contain rare annotations	15	2	0	adj_np	SV-#
+eng_0015	eng	SG	the old manuscript	the old manuscripts	contains rare annotations	15	2	0	adj_np	SV-#
+eng_0016	eng	PL	those large glaciers	that large glacier	move across the valley slowly	16	2	0	adj_np	SV-#
+eng_0016	eng	SG	that large glacier	those large glaciers	moves across the valley slowly	16	2	0	adj_np	SV-#
+eng_0017	eng	PL	her tiny kittens	her tiny kitten	chase the sunlight on the floor	17	2	0	adj_np	SV-#
+eng_0017	eng	SG	her tiny kitten	her tiny kittens	chases the sunlight on the floor	17	2	0	adj_np	SV-#
+eng_0018	eng	PL	unfamiliar instruments	an unfamiliar instrument	produce a high humming tone	18	2	0	adj_np	SV-#
+eng_0018	eng	SG	an unfamiliar instrument	unfamiliar instruments	produces a high humming tone	18	2	0	adj_np	SV-#
+eng_0019	eng	PL	the portable devices	the portable device	require a firmware update	19	2	0	adj_np	SV-#
+eng_0019	eng	SG	the portable device	the portable devices	requires a firmware update	19	2	0	adj_np	SV-#
+eng_0020	eng	PL	The tall teachers	The tall teacher	write detailed lesson plans for tomorrow.	20	4	0	long_subject_no_attractor	SV-#
+eng_0020	eng	SG	The tall teacher	The tall teachers	writes a detailed lesson plan for tomorrow.	20	4	0	long_subject_no_attractor	SV-#
+eng_0021	eng	PL	Three stray cats	A stray cat	chase the small bird near the fence.	21	4	0	long_subject_no_attractor	SV-#
+eng_0021	eng	SG	A stray cat	Three stray cats	chases the small bird near the fence.	21	4	0	long_subject_no_attractor	SV-#
+eng_0022	eng	PL	My old laptops	My old laptop	contain several important research files.	22	4	0	long_subject_no_attractor	SV-#
+eng_0022	eng	SG	My old laptop	My old laptops	contains several important research files.	22	4	0	long_subject_no_attractor	SV-#
+eng_0023	eng	PL	The rising rivers	The rising river	threaten nearby homes each spring.	23	4	0	long_subject_no_attractor	SV-#
+eng_0023	eng	SG	The rising river	The rising rivers	threatens nearby homes each spring.	23	4	0	long_subject_no_attractor	SV-#
+eng_0024	eng	PL	Two city councilors	One city councilor	support the proposed zoning change.	24	4	0	long_subject_no_attractor	SV-#
+eng_0024	eng	SG	One city councilor	Two city councilors	supports the proposed zoning change.	24	4	0	long_subject_no_attractor	SV-#
+eng_0025	eng	PL	Her close friends	Her close friend	celebrate recent promotions tonight.	25	4	0	long_subject_no_attractor	SV-#
+eng_0025	eng	SG	Her close friend	Her close friends	celebrates a recent promotion tonight.	25	4	0	long_subject_no_attractor	SV-#
+eng_0026	eng	PL	Five wooden boxes	One wooden box	hold the old family photographs.	26	4	0	long_subject_no_attractor	SV-#
+eng_0026	eng	SG	One wooden box	Five wooden boxes	holds the old family photographs.	26	4	0	long_subject_no_attractor	SV-#
+eng_0027	eng	PL	The former board members	The former board member	resign from the committee immediately.	27	4	0	long_subject_no_attractor	SV-#
+eng_0027	eng	SG	The former board member	The former board members	resigns from the committee immediately.	27	4	0	long_subject_no_attractor	SV-#
+eng_0028	eng	PL	Those young whales	That young whale	breach near the research vessel.	28	4	0	long_subject_no_attractor	SV-#
+eng_0028	eng	SG	That young whale	Those young whales	breaches near the research vessel.	28	4	0	long_subject_no_attractor	SV-#
+eng_0029	eng	PL	Several complex theories	A complex theory	explain the experimental results poorly.	29	4	0	long_subject_no_attractor	SV-#
+eng_0029	eng	SG	A complex theory	Several complex theories	explains the experimental results poorly.	29	4	0	long_subject_no_attractor	SV-#
+eng_0030	eng	PL	The librarians near the university	The librarian near the universities	are shelving the returned books in the morning	30	4	1	pp_attractor	SV-#
+eng_0030	eng	SG	The librarian near the universities	The librarians near the university	is shelving the returned books in the morning	30	4	1	pp_attractor	SV-#
+eng_0031	eng	PL	Committees of senior adviser	A committee of senior advisers	have approved the draft policy unanimously	31	4	1	pp_attractor	SV-#
+eng_0031	eng	SG	A committee of senior advisers	Committees of senior adviser	has approved the draft policy unanimously	31	4	1	pp_attractor	SV-#
+eng_0032	eng	PL	These artists beside the museum	This artist beside the museums	are preparing a new installation for next month	32	4	1	pp_attractor	SV-#
+eng_0032	eng	SG	This artist beside the museums	These artists beside the museum	is preparing a new installation for next month	32	4	1	pp_attractor	SV-#
+eng_0033	eng	PL	Our coaches behind the player	Our coach behind the players	are giving feedback after practice	33	4	1	pp_attractor	SV-#
+eng_0033	eng	SG	Our coach behind the players	Our coaches behind the player	is giving feedback after practice	33	4	1	pp_attractor	SV-#
+eng_0034	eng	PL	Those statues under the oak trees	That statue under the oak tree	were weathered by the storm last year	34	4	1	pp_attractor	SV-#
+eng_0034	eng	SG	That statue under the oak tree	Those statues under the oak trees	was weathered by the storm last year	34	4	1	pp_attractor	SV-#
+eng_0035	eng	PL	Engineers from the factory	An engineer from the factories	have redesigned the prototype for efficiency	35	4	1	pp_attractor	SV-#
+eng_0035	eng	SG	An engineer from the factories	Engineers from the factory	has redesigned the prototype for efficiency	35	4	1	pp_attractor	SV-#
+eng_0036	eng	PL	The committees among the critic	The committee among the critics	are issuing their recommendations today	36	4	1	pp_attractor	SV-#
+eng_0036	eng	SG	The committee among the critics	The committees among the critic	is issuing its recommendations today	36	4	1	pp_attractor	SV-#
+eng_0037	eng	PL	Her professors of linguistics	Her professor of linguistics	were invited to speak at the conference	37	4	1	pp_attractor	SV-#
+eng_0037	eng	SG	Her professor of linguistics	Her professors of linguistics	was invited to speak at the conference	37	4	1	pp_attractor	SV-#
+eng_0038	eng	PL	These policies next to the regulation	This policy next to the regulations	are intended to simplify compliance	38	4	1	pp_attractor	SV-#
+eng_0038	eng	SG	This policy next to the regulations	These policies next to the regulation	is intended to simplify compliance	38	4	1	pp_attractor	SV-#
+eng_0039	eng	PL	The mountains beside the village	The mountain beside the villages	provide a habitat for rare plants	39	4	1	pp_attractor	SV-#
+eng_0039	eng	SG	The mountain beside the villages	The mountains beside the village	provides a habitat for rare plants	39	4	1	pp_attractor	SV-#
+eng_0040	eng	PL	The curators of the museum	The curator of the museum	have restored the painting	40	3	0	perfect_aux	SV-#
+eng_0040	eng	SG	The curator of the museum	The curators of the museum	has restored the painting	40	3	0	perfect_aux	SV-#
+eng_0041	eng	PL	Young scientists from the lab	A young scientist from the lab	are presenting their findings	41	3	0	perfect_aux	SV-#
+eng_0041	eng	SG	A young scientist from the lab	Young scientists from the lab	is presenting her findings	41	3	0	perfect_aux	SV-#
+eng_0042	eng	PL	These pieces of evidence in the report	This evidence in the report	were cited in the article	42	3	0	perfect_aux	SV-#
+eng_0042	eng	SG	This evidence in the report	These pieces of evidence in the report	was cited in the article	42	3	0	perfect_aux	SV-#
+eng_0043	eng	PL	My neighbors' golden retrievers	My neighbor's golden retriever	have chewed the slippers	43	3	0	perfect_aux	SV-#
+eng_0043	eng	SG	My neighbor's golden retriever	My neighbors' golden retrievers	has chewed the slippers	43	3	0	perfect_aux	SV-#
+eng_0044	eng	PL	Those novels by the author	That novel by the author	have influenced many readers	44	3	0	perfect_aux	SV-#
+eng_0044	eng	SG	That novel by the author	Those novels by the author	has influenced many readers	44	3	0	perfect_aux	SV-#
+eng_0045	eng	PL	The committees on safety	The committee on safety	do recommend a pause	45	3	0	perfect_aux	SV-#
+eng_0045	eng	SG	The committee on safety	The committees on safety	does recommend a pause	45	3	0	perfect_aux	SV-#
+eng_0046	eng	PL	Vintage radios in the attic	A vintage radio in the attic	were emitting a crackle	46	3	0	perfect_aux	SV-#
+eng_0046	eng	SG	A vintage radio in the attic	Vintage radios in the attic	was emitting a crackle	46	3	0	perfect_aux	SV-#
+eng_0047	eng	PL	All students in the seminar	Each student in the seminar	have submitted essays	47	3	0	perfect_aux	SV-#
+eng_0047	eng	SG	Each student in the seminar	All students in the seminar	has submitted an essay	47	3	0	perfect_aux	SV-#
+eng_0048	eng	PL	Her thesis chapters	Her thesis chapter	have convinced the reviewers	48	3	0	perfect_aux	SV-#
+eng_0048	eng	SG	Her thesis chapter	Her thesis chapters	has convinced the reviewers	48	3	0	perfect_aux	SV-#
+eng_0049	eng	PL	The glaciers on the mountain	The glacier on the mountain	are retreating rapidly	49	3	0	perfect_aux	SV-#
+eng_0049	eng	SG	The glacier on the mountain	The glaciers on the mountain	is retreating rapidly	49	3	0	perfect_aux	SV-#
+eng_0050	eng	PL	children	a child	were waiting at the corner	50	2	0	irregular_plural	SV-#
+eng_0050	eng	SG	a child	children	was waiting at the corner	50	2	0	irregular_plural	SV-#
+eng_0051	eng	PL	the people from accounting	the person from accounting	are presenting the report	51	2	0	irregular_plural	SV-#
+eng_0051	eng	SG	the person from accounting	the people from accounting	is presenting the report	51	2	0	irregular_plural	SV-#
+eng_0052	eng	PL	these mice	this mouse	have chewed through the cable	52	2	0	irregular_plural	SV-#
+eng_0052	eng	SG	this mouse	these mice	has chewed through the cable	52	2	0	irregular_plural	SV-#
+eng_0053	eng	PL	my men at the station	my man at the station	were late for the shift	53	2	0	irregular_plural	SV-#
+eng_0053	eng	SG	my man at the station	my men at the station	was late for the shift	53	2	0	irregular_plural	SV-#
+eng_0054	eng	PL	those women in the photo	that woman in the photo	have written the caption	54	2	0	irregular_plural	SV-#
+eng_0054	eng	SG	that woman in the photo	those women in the photo	has written the caption	54	2	0	irregular_plural	SV-#
+eng_0055	eng	PL	the teeth from the model	the tooth from the model	are showing signs of wear	55	2	0	irregular_plural	SV-#
+eng_0055	eng	SG	the tooth from the model	the teeth from the model	is showing signs of wear	55	2	0	irregular_plural	SV-#
+eng_0056	eng	PL	her feet	her foot	were injured during practice	56	2	0	irregular_plural	SV-#
+eng_0056	eng	SG	her foot	her feet	was injured during practice	56	2	0	irregular_plural	SV-#
+eng_0057	eng	PL	oxen in the field	an ox in the field	have pulled the plow	57	2	0	irregular_plural	SV-#
+eng_0057	eng	SG	an ox in the field	oxen in the field	has pulled the plow	57	2	0	irregular_plural	SV-#
+eng_0058	eng	PL	the geese on the bank	the goose on the bank	are honking loudly	58	2	0	irregular_plural	SV-#
+eng_0058	eng	SG	the goose on the bank	the geese on the bank	is honking loudly	58	2	0	irregular_plural	SV-#
+eng_0059	eng	PL	these cacti on the windowsill	this cactus on the windowsill	are thriving with little water	59	2	0	irregular_plural	SV-#
+eng_0059	eng	SG	this cactus on the windowsill	these cacti on the windowsill	is thriving with little water	59	2	0	irregular_plural	SV-#
+eng_0060	eng	PL	the teachers who tutor the students	the teacher who tutors the students	believe the new policy will help	60	5	1	relative_clause_subject	SV-#
+eng_0060	eng	SG	the teacher who tutors the students	the teachers who tutor the students	believes the new policy will help	60	5	1	relative_clause_subject	SV-#
+eng_0061	eng	PL	scientists that study rare species	a scientist that studies rare species	report a surprising correlation	61	5	1	relative_clause_subject	SV-#
+eng_0061	eng	SG	a scientist that studies rare species	scientists that study rare species	reports a surprising correlation	61	5	1	relative_clause_subject	SV-#
+eng_0062	eng	PL	these managers who supervise the teams	this manager who supervises the teams	want to meet with HR	62	5	1	relative_clause_subject	SV-#
+eng_0062	eng	SG	this manager who supervises the teams	these managers who supervise the teams	wants to meet with HR	62	5	1	relative_clause_subject	SV-#
+eng_0063	eng	PL	the novels that feature families of strangers	the novel that features a family of strangers	explore themes of identity	63	5	1	relative_clause_subject	SV-#
+eng_0063	eng	SG	the novel that features a family of strangers	the novels that feature families of strangers	explores themes of identity	63	5	1	relative_clause_subject	SV-#
+eng_0064	eng	PL	his colleagues who met the consultants	his colleague who met the consultants	prefer to postpone the presentation	64	5	1	relative_clause_subject	SV-#
+eng_0064	eng	SG	his colleague who met the consultants	his colleagues who met the consultants	prefers to postpone the presentation	64	5	1	relative_clause_subject	SV-#
+eng_0065	eng	PL	the committees whose reports cite many studies	the committee whose report cites many studies	face intense scrutiny	65	5	1	relative_clause_subject	SV-#
+eng_0065	eng	SG	the committee whose report cites many studies	the committees whose reports cite many studies	faces intense scrutiny	65	5	1	relative_clause_subject	SV-#
+eng_0066	eng	PL	the robots which inspect the crates	the robot which inspects the crates	malfunction under stress	66	5	1	relative_clause_subject	SV-#
+eng_0066	eng	SG	the robot which inspects the crates	the robots which inspect the crates	malfunctions under stress	66	5	1	relative_clause_subject	SV-#
+eng_0067	eng	PL	journalists whom the editor criticized	a journalist whom the editor criticized	continue to investigate the story	67	5	1	relative_clause_subject	SV-#
+eng_0067	eng	SG	a journalist whom the editor criticized	journalists whom the editor criticized	continues to investigate the story	67	5	1	relative_clause_subject	SV-#
+eng_0068	eng	PL	the parks that surround the old reservoirs	the park that surrounds the old reservoir	provide pleasant escapes	68	5	1	relative_clause_subject	SV-#
+eng_0068	eng	SG	the park that surrounds the old reservoir	the parks that surround the old reservoirs	provides a pleasant escape	68	5	1	relative_clause_subject	SV-#
+eng_0069	eng	PL	those artists who paint portraits of children	that artist who paints portraits of children	receive steady commissions	69	5	1	relative_clause_subject	SV-#
+eng_0069	eng	SG	that artist who paints portraits of children	those artists who paint portraits of children	receives steady commissions	69	5	1	relative_clause_subject	SV-#

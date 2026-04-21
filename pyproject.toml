@@ -1,0 +1,27 @@
+[project]
+name = "sae-agreement"
+version = "0.1.0"
+description = "Causal analysis of grammatical number representations in multilingual LMs using sparse autoencoders"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.2",
+    "transformers>=4.45",
+    "sae-lens>=4.0",
+    "datasets>=3.0",
+    "huggingface-hub>=0.25",
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "scipy>=1.12",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "tqdm>=4.66",
+    "pyyaml>=6.0",
+    "jupyter>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["ruff", "pytest", "ipykernel"]
+
+[tool.ruff]
+line-length = 100

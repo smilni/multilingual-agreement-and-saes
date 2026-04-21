@@ -1,0 +1,201 @@
+pair_id	language	target_number	good_prefix	bad_prefix	continuation	source_idx	distance	has_attractor	template_id	phenomenon_family
+eng_0000	eng	PL	The teachers	The teacher	explain the concept clearly.	0	1	0	simple_np	SV-#
+eng_0000	eng	SG	The teacher	The teachers	explains the concept clearly.	0	1	0	simple_np	SV-#
+eng_0001	eng	PL	Directors	A director	approve the proposal.	1	1	0	simple_np	SV-#
+eng_0001	eng	SG	A director	Directors	approves the proposal.	1	1	0	simple_np	SV-#
+eng_0002	eng	PL	These dogs	This dog	bark at the mail carrier.	2	1	0	simple_np	SV-#
+eng_0002	eng	SG	This dog	These dogs	barks at the mail carrier.	2	1	0	simple_np	SV-#
+eng_0003	eng	PL	Our friends	My friend	call every evening.	3	1	0	simple_np	SV-#
+eng_0003	eng	SG	My friend	Our friends	calls every evening.	3	1	0	simple_np	SV-#
+eng_0004	eng	PL	Those smartphones	That smartphone	vibrate on the table.	4	1	0	simple_np	SV-#
+eng_0004	eng	SG	That smartphone	Those smartphones	vibrates on the table.	4	1	0	simple_np	SV-#
+eng_0005	eng	PL	The committees	The committee	reach a decision.	5	1	0	simple_np	SV-#
+eng_0005	eng	SG	The committee	The committees	reaches a decision.	5	1	0	simple_np	SV-#
+eng_0006	eng	PL	Rivers	A river	flow through the valley.	6	1	0	simple_np	SV-#
+eng_0006	eng	SG	A river	Rivers	flows through the valley.	6	1	0	simple_np	SV-#
+eng_0007	eng	PL	The reports	The report	contain several errors.	7	1	0	simple_np	SV-#
+eng_0007	eng	SG	The report	The reports	contains several errors.	7	1	0	simple_np	SV-#
+eng_0008	eng	PL	These artists	This artist	paint a mural downtown.	8	1	0	simple_np	SV-#
+eng_0008	eng	SG	This artist	These artists	paints a mural downtown.	8	1	0	simple_np	SV-#
+eng_0009	eng	PL	Children	A child	laugh at the clown.	9	1	0	simple_np	SV-#
+eng_0009	eng	SG	A child	Children	laughs at the clown.	9	1	0	simple_np	SV-#
+eng_0010	eng	PL	the tall men	the tall man	are walking down the street.	10	1	0	adj_np	SV-#
+eng_0010	eng	SG	the tall man	the tall men	is walking down the street.	10	1	0	adj_np	SV-#
+eng_0011	eng	PL	old books	an old book	sit on the top shelf.	11	1	0	adj_np	SV-#
+eng_0011	eng	SG	an old book	old books	sits on the top shelf.	11	1	0	adj_np	SV-#
+eng_0012	eng	PL	these successful companies	this successful company	employ dozens of engineers.	12	1	0	adj_np	SV-#
+eng_0012	eng	SG	this successful company	these successful companies	employs dozens of engineers.	12	1	0	adj_np	SV-#
+eng_0013	eng	PL	my red cars	my red car	need repairs.	13	1	0	adj_np	SV-#
+eng_0013	eng	SG	my red car	my red cars	needs repairs.	13	1	0	adj_np	SV-#
+eng_0014	eng	PL	French chefs	a French chef	prepare the special for tonight.	14	1	0	adj_np	SV-#
+eng_0014	eng	SG	a French chef	French chefs	prepares the special for tonight.	14	1	0	adj_np	SV-#
+eng_0015	eng	PL	the digital files	the digital file	contain confidential data.	15	1	0	adj_np	SV-#
+eng_0015	eng	SG	the digital file	the digital files	contains confidential data.	15	1	0	adj_np	SV-#
+eng_0016	eng	PL	the tiny mice	the tiny mouse	scurry across the kitchen floor.	16	1	0	adj_np	SV-#
+eng_0016	eng	SG	the tiny mouse	the tiny mice	scurries across the kitchen floor.	16	1	0	adj_np	SV-#
+eng_0017	eng	PL	those wooden chairs	that wooden chair	wobble when someone sits.	17	1	0	adj_np	SV-#
+eng_0017	eng	SG	that wooden chair	those wooden chairs	wobbles when someone sits.	17	1	0	adj_np	SV-#
+eng_0018	eng	PL	the ancient trees	the ancient tree	provide shade for the bench.	18	1	0	adj_np	SV-#
+eng_0018	eng	SG	the ancient tree	the ancient trees	provides shade for the bench.	18	1	0	adj_np	SV-#
+eng_0019	eng	PL	our reliable algorithms	our reliable algorithm	produce accurate predictions.	19	1	0	adj_np	SV-#
+eng_0019	eng	SG	our reliable algorithm	our reliable algorithms	produces accurate predictions.	19	1	0	adj_np	SV-#
+eng_0020	eng	PL	The ancient wooden bridges	The ancient wooden bridge	span the narrow riverbed.	20	1	0	long_subject_no_attractor	SV-#
+eng_0020	eng	SG	The ancient wooden bridge	The ancient wooden bridges	spans the narrow riverbed.	20	1	0	long_subject_no_attractor	SV-#
+eng_0021	eng	PL	Three eager volunteers	One eager volunteer	collect donations at the shelter.	21	1	0	long_subject_no_attractor	SV-#
+eng_0021	eng	SG	One eager volunteer	Three eager volunteers	collects donations at the shelter.	21	1	0	long_subject_no_attractor	SV-#
+eng_0022	eng	PL	The recently renovated old libraries	The recently renovated old library	house several rare manuscripts.	22	1	0	long_subject_no_attractor	SV-#
+eng_0022	eng	SG	The recently renovated old library	The recently renovated old libraries	houses several rare manuscripts.	22	1	0	long_subject_no_attractor	SV-#
+eng_0023	eng	PL	My bright young sisters	My bright young sister	sing with the chamber choir.	23	1	0	long_subject_no_attractor	SV-#
+eng_0023	eng	SG	My bright young sister	My bright young sisters	sings with the chamber choir.	23	1	0	long_subject_no_attractor	SV-#
+eng_0024	eng	PL	Those tall rocky islands	That tall rocky island	erode noticeably after each storm.	24	1	0	long_subject_no_attractor	SV-#
+eng_0024	eng	SG	That tall rocky island	Those tall rocky islands	erodes noticeably after each storm.	24	1	0	long_subject_no_attractor	SV-#
+eng_0025	eng	PL	Five broken windows	One broken window	rattle in the wind.	25	1	0	long_subject_no_attractor	SV-#
+eng_0025	eng	SG	One broken window	Five broken windows	rattles in the wind.	25	1	0	long_subject_no_attractor	SV-#
+eng_0026	eng	PL	The newly elected young mayors	The newly elected young mayor	promise immediate reforms.	26	1	0	long_subject_no_attractor	SV-#
+eng_0026	eng	SG	The newly elected young mayor	The newly elected young mayors	promises immediate reforms.	26	1	0	long_subject_no_attractor	SV-#
+eng_0027	eng	PL	Her old battered guitars	Her old battered guitar	hang on the studio wall.	27	1	0	long_subject_no_attractor	SV-#
+eng_0027	eng	SG	Her old battered guitar	Her old battered guitars	hangs on the studio wall.	27	1	0	long_subject_no_attractor	SV-#
+eng_0028	eng	PL	These cracked marble statues	This cracked marble statue	stand in the central plaza.	28	1	0	long_subject_no_attractor	SV-#
+eng_0028	eng	SG	This cracked marble statue	These cracked marble statues	stands in the central plaza.	28	1	0	long_subject_no_attractor	SV-#
+eng_0029	eng	PL	Two anxious students	One anxious student	study late into the night.	29	1	0	long_subject_no_attractor	SV-#
+eng_0029	eng	SG	One anxious student	Two anxious students	studies late into the night.	29	1	0	long_subject_no_attractor	SV-#
+eng_0030	eng	PL	The committees of scientists	The committee of scientists	decide the funding allocations next week.	30	2	1	pp_attractor	SV-#
+eng_0030	eng	SG	The committee of scientists	The committees of scientists	decides the funding allocations next week.	30	2	1	pp_attractor	SV-#
+eng_0031	eng	PL	Boxes under the shelf	A box under the shelf	hold fragile equipment.	31	3	1	pp_attractor	SV-#
+eng_0031	eng	SG	A box under the shelf	Boxes under the shelf	holds fragile equipment.	31	3	1	pp_attractor	SV-#
+eng_0032	eng	PL	The teachers near the principal	The teacher near the principal	are evaluating the curriculum today.	32	3	1	pp_attractor	SV-#
+eng_0032	eng	SG	The teacher near the principal	The teachers near the principal	is evaluating the curriculum today.	32	3	1	pp_attractor	SV-#
+eng_0033	eng	PL	The rivers behind the houses	The river behind the houses	flow through the valley.	33	3	1	pp_attractor	SV-#
+eng_0033	eng	SG	The river behind the houses	The rivers behind the houses	flows through the valley.	33	3	1	pp_attractor	SV-#
+eng_0034	eng	PL	Those policies among analysts	That policy among analysts	remain controversial.	34	2	1	pp_attractor	SV-#
+eng_0034	eng	SG	That policy among analysts	Those policies among analysts	remains controversial.	34	2	1	pp_attractor	SV-#
+eng_0035	eng	PL	The squads beside the stadium	The squad beside the stadium	celebrate their victory tonight.	35	3	1	pp_attractor	SV-#
+eng_0035	eng	SG	The squad beside the stadium	The squads beside the stadium	celebrates its victory tonight.	35	3	1	pp_attractor	SV-#
+eng_0036	eng	PL	Our museums inside the old quarter	Our museum inside the old quarter	house an important collection of artifacts.	36	4	1	pp_attractor	SV-#
+eng_0036	eng	SG	Our museum inside the old quarter	Our museums inside the old quarter	houses an important collection of artifacts.	36	4	1	pp_attractor	SV-#
+eng_0037	eng	PL	These ideas from the report	This idea from the report	originate in the recent survey.	37	2	1	pp_attractor	SV-#
+eng_0037	eng	SG	This idea from the report	These ideas from the report	originates in the recent survey.	37	2	1	pp_attractor	SV-#
+eng_0038	eng	PL	My dogs next to the cars	My dog next to the cars	bark at strangers.	38	4	1	pp_attractor	SV-#
+eng_0038	eng	SG	My dog next to the cars	My dogs next to the cars	barks at strangers.	38	4	1	pp_attractor	SV-#
+eng_0039	eng	PL	The buoys below the bridge	The buoy below the bridge	mark the shipping lane.	39	3	1	pp_attractor	SV-#
+eng_0039	eng	SG	The buoy below the bridge	The buoys below the bridge	marks the shipping lane.	39	3	1	pp_attractor	SV-#
+eng_0040	eng	PL	Several of the students	One of the students	claim that the exam was unfair.	40	4	1	quantifier_head_attractor	SV-#
+eng_0040	eng	SG	One of the students	Several of the students	claims that the exam was unfair.	40	4	1	quantifier_head_attractor	SV-#
+eng_0041	eng	PL	Many of the delegates	Each of the delegates	applaud the speaker.	41	4	1	quantifier_head_attractor	SV-#
+eng_0041	eng	SG	Each of the delegates	Many of the delegates	applauds the speaker.	41	4	1	quantifier_head_attractor	SV-#
+eng_0042	eng	PL	Few of her colleagues	Either of her colleagues	seem to know the procedure.	42	4	1	quantifier_head_attractor	SV-#
+eng_0042	eng	SG	Either of her colleagues	Few of her colleagues	seems to know the procedure.	42	4	1	quantifier_head_attractor	SV-#
+eng_0043	eng	PL	Most of the engineers	One of the engineers	have completed the schematic.	43	4	1	quantifier_head_attractor	SV-#
+eng_0043	eng	SG	One of the engineers	Most of the engineers	has completed the schematic.	43	4	1	quantifier_head_attractor	SV-#
+eng_0044	eng	PL	Several of these books	Each of these books	contain rare woodcuts.	44	4	1	quantifier_head_attractor	SV-#
+eng_0044	eng	SG	Each of these books	Several of these books	contains rare woodcuts.	44	4	1	quantifier_head_attractor	SV-#
+eng_0045	eng	PL	Three of the wolves	Neither of the wolves	howl at the moon.	45	4	1	quantifier_head_attractor	SV-#
+eng_0045	eng	SG	Neither of the wolves	Three of the wolves	howls at the moon.	45	4	1	quantifier_head_attractor	SV-#
+eng_0046	eng	PL	Two of the paintings	Every one of the paintings	hang in the gallery.	46	5	1	quantifier_head_attractor	SV-#
+eng_0046	eng	SG	Every one of the paintings	Two of the paintings	hangs in the gallery.	46	5	1	quantifier_head_attractor	SV-#
+eng_0047	eng	PL	Most of the hospitals	Neither of the hospitals	operate on a reduced budget.	47	4	1	quantifier_head_attractor	SV-#
+eng_0047	eng	SG	Neither of the hospitals	Most of the hospitals	operates on a reduced budget.	47	4	1	quantifier_head_attractor	SV-#
+eng_0048	eng	PL	Many of the judges	Either of the judges	criticize the ruling.	48	4	1	quantifier_head_attractor	SV-#
+eng_0048	eng	SG	Either of the judges	Many of the judges	criticizes the ruling.	48	4	1	quantifier_head_attractor	SV-#
+eng_0049	eng	PL	Few of the islands	Neither of the islands	remain inhabited.	49	4	1	quantifier_head_attractor	SV-#
+eng_0049	eng	SG	Neither of the islands	Few of the islands	remains inhabited.	49	4	1	quantifier_head_attractor	SV-#
+eng_0050	eng	PL	The mayors of the coastal town	The mayor of the coastal town	have announced a new housing plan.	50	1	0	perfect_aux	SV-#
+eng_0050	eng	SG	The mayor of the coastal town	The mayors of the coastal town	has announced a new housing plan.	50	1	0	perfect_aux	SV-#
+eng_0051	eng	PL	Graduate students in physics	A graduate student in physics	have completed their thesis research.	51	1	0	perfect_aux	SV-#
+eng_0051	eng	SG	A graduate student in physics	Graduate students in physics	has completed their thesis research.	51	1	0	perfect_aux	SV-#
+eng_0052	eng	PL	These old oaks in the backyard	This old oak in the backyard	have provided shade for decades.	52	1	0	perfect_aux	SV-#
+eng_0052	eng	SG	This old oak in the backyard	These old oaks in the backyard	has provided shade for decades.	52	1	0	perfect_aux	SV-#
+eng_0053	eng	PL	My neighbors' cats	My neighbor's cat	have knocked over the vase.	53	1	0	perfect_aux	SV-#
+eng_0053	eng	SG	My neighbor's cat	My neighbors' cats	has knocked over the vase.	53	1	0	perfect_aux	SV-#
+eng_0054	eng	PL	Those research institutes	That research institute	have funded several major studies.	54	1	0	perfect_aux	SV-#
+eng_0054	eng	SG	That research institute	Those research institutes	has funded several major studies.	54	1	0	perfect_aux	SV-#
+eng_0055	eng	PL	Her reports on climate change	Her report on climate change	have included additional data from the field.	55	1	0	perfect_aux	SV-#
+eng_0055	eng	SG	Her report on climate change	Her reports on climate change	has included additional data from the field.	55	1	0	perfect_aux	SV-#
+eng_0056	eng	PL	The museum exhibits in the east wing	The museum exhibit in the east wing	have been relocated for renovations.	56	1	0	perfect_aux	SV-#
+eng_0056	eng	SG	The museum exhibit in the east wing	The museum exhibits in the east wing	has been relocated for renovations.	56	1	0	perfect_aux	SV-#
+eng_0057	eng	PL	The rivers that run through the valley	The river that runs through the valley	have eroded the banks significantly.	57	1	0	perfect_aux	SV-#
+eng_0057	eng	SG	The river that runs through the valley	The rivers that run through the valley	has eroded the banks significantly.	57	1	0	perfect_aux	SV-#
+eng_0058	eng	PL	Antique violins from Cremona	An antique violin from Cremona	have been displayed in several exhibitions.	58	1	0	perfect_aux	SV-#
+eng_0058	eng	SG	An antique violin from Cremona	Antique violins from Cremona	has been displayed in several exhibitions.	58	1	0	perfect_aux	SV-#
+eng_0059	eng	PL	These safety regulations for construction sites	This safety regulation for construction sites	have reduced the number of accidents.	59	1	0	perfect_aux	SV-#
+eng_0059	eng	SG	This safety regulation for construction sites	These safety regulations for construction sites	has reduced the number of accidents.	59	1	0	perfect_aux	SV-#
+eng_0060	eng	PL	The children in the classroom	The child in the classroom	are reading the book	60	1	0	irregular_plural	SV-#
+eng_0060	eng	SG	The child in the classroom	The children in the classroom	is reading the book	60	1	0	irregular_plural	SV-#
+eng_0061	eng	PL	These people at the front	A person at the front	have completed the form	61	1	0	irregular_plural	SV-#
+eng_0061	eng	SG	A person at the front	These people at the front	has completed the form	61	1	0	irregular_plural	SV-#
+eng_0062	eng	PL	My feet	My foot	hurt when I run	62	1	0	irregular_plural	SV-#
+eng_0062	eng	SG	My foot	My feet	hurts when I run	62	1	0	irregular_plural	SV-#
+eng_0063	eng	PL	Those teeth at the back	That tooth at the back	need to be filled	63	1	0	irregular_plural	SV-#
+eng_0063	eng	SG	That tooth at the back	Those teeth at the back	needs to be filled	63	1	0	irregular_plural	SV-#
+eng_0064	eng	PL	Those mice near the pantry	That mouse near the pantry	scurry away every night	64	1	0	irregular_plural	SV-#
+eng_0064	eng	SG	That mouse near the pantry	Those mice near the pantry	scurries away every night	64	1	0	irregular_plural	SV-#
+eng_0065	eng	PL	The geese on the pond	The goose on the pond	honk at the boat	65	1	0	irregular_plural	SV-#
+eng_0065	eng	SG	The goose on the pond	The geese on the pond	honks at the boat	65	1	0	irregular_plural	SV-#
+eng_0066	eng	PL	These men working at the bank	This man working at the bank	lift the crate	66	1	0	irregular_plural	SV-#
+eng_0066	eng	SG	This man working at the bank	These men working at the bank	lifts the crate	66	1	0	irregular_plural	SV-#
+eng_0067	eng	PL	Those women wearing a blue coat	That woman wearing a blue coat	welcome the guest	67	1	0	irregular_plural	SV-#
+eng_0067	eng	SG	That woman wearing a blue coat	Those women wearing a blue coat	welcomes the guest	67	1	0	irregular_plural	SV-#
+eng_0068	eng	PL	Several oxen in the field	An ox in the field	pull the plow	68	1	0	irregular_plural	SV-#
+eng_0068	eng	SG	An ox in the field	Several oxen in the field	pulls the plow	68	1	0	irregular_plural	SV-#
+eng_0069	eng	PL	My lice behind the ear	My louse behind the ear	infest the scalp	69	1	0	irregular_plural	SV-#
+eng_0069	eng	SG	My louse behind the ear	My lice behind the ear	infests the scalp	69	1	0	irregular_plural	SV-#
+eng_0070	eng	PL	The committees that the members of the board appointed	The committee that the members of the board appointed	have decided to postpone the meeting.	70	3	1	relative_clause_subject	SV-#
+eng_0070	eng	SG	The committee that the members of the board appointed	The committees that the members of the board appointed	has decided to postpone the meeting.	70	3	1	relative_clause_subject	SV-#
+eng_0071	eng	PL	These teachers who the students in the class praise	This teacher who the students in the class praise	are known for patience.	71	2	1	relative_clause_subject	SV-#
+eng_0071	eng	SG	This teacher who the students in the class praise	These teachers who the students in the class praise	is known for patience.	71	2	1	relative_clause_subject	SV-#
+eng_0072	eng	PL	The rivers that several towns rely on	The river that several towns rely on	provide water to local farms.	72	2	1	relative_clause_subject	SV-#
+eng_0072	eng	SG	The river that several towns rely on	The rivers that several towns rely on	provides water to local farms.	72	2	1	relative_clause_subject	SV-#
+eng_0073	eng	PL	The paintings which the critics at the gallery praised	The painting which the critics at the gallery praised	hang in the main hall.	73	3	1	relative_clause_subject	SV-#
+eng_0073	eng	SG	The painting which the critics at the gallery praised	The paintings which the critics at the gallery praised	hangs in the main hall.	73	3	1	relative_clause_subject	SV-#
+eng_0074	eng	PL	These scientists whom several students admired	This scientist whom several students admired	have received a prestigious grant.	74	2	1	relative_clause_subject	SV-#
+eng_0074	eng	SG	This scientist whom several students admired	These scientists whom several students admired	has received a prestigious grant.	74	2	1	relative_clause_subject	SV-#
+eng_0075	eng	PL	The cities where protests by students erupted	The city where protests by students erupted	suffer from frequent transit delays.	75	3	1	relative_clause_subject	SV-#
+eng_0075	eng	SG	The city where protests by students erupted	The cities where protests by students erupted	suffers from frequent transit delays.	75	3	1	relative_clause_subject	SV-#
+eng_0076	eng	PL	The authors whose novels the critics praised	The author whose novels the critics praised	are selling better than expected.	76	2	1	relative_clause_subject	SV-#
+eng_0076	eng	SG	The author whose novels the critics praised	The authors whose novels the critics praised	is selling better than expected.	76	2	1	relative_clause_subject	SV-#
+eng_0077	eng	PL	Our families that often host exchange students	Our family that often hosts exchange students	enjoy big holiday dinners together.	77	2	1	relative_clause_subject	SV-#
+eng_0077	eng	SG	Our family that often hosts exchange students	Our families that often host exchange students	enjoys big holiday dinners together.	77	2	1	relative_clause_subject	SV-#
+eng_0078	eng	PL	The bridges that the engineers from the firm inspected	The bridge that the engineers from the firm inspected	remain closed for repairs.	78	3	1	relative_clause_subject	SV-#
+eng_0078	eng	SG	The bridge that the engineers from the firm inspected	The bridges that the engineers from the firm inspected	remains closed for repairs.	78	3	1	relative_clause_subject	SV-#
+eng_0079	eng	PL	The archives that the researchers accessed	The archive that the researchers accessed	hold important historical records.	79	2	1	relative_clause_subject	SV-#
+eng_0079	eng	SG	The archive that the researchers accessed	The archives that the researchers accessed	holds important historical records.	79	2	1	relative_clause_subject	SV-#
+eng_0080	eng	PL	After the council met, the directors of the teams	After the council met, the director of the teams	announce a new schedule for next week	80	3	1	non_initial_subject	SV-#
+eng_0080	eng	SG	After the council met, the director of the teams	After the council met, the directors of the teams	announces a new schedule for next week	80	3	1	non_initial_subject	SV-#
+eng_0081	eng	PL	The students finished early, and scientists with a stack of journals	The students finished early, and a scientist with a stack of journals	examine the samples in the lab	81	5	1	non_initial_subject	SV-#
+eng_0081	eng	SG	The students finished early, and a scientist with a stack of journals	The students finished early, and scientists with a stack of journals	examines the samples in the lab	81	5	1	non_initial_subject	SV-#
+eng_0082	eng	PL	When the fire alarms stopped, the orchestras of students	When the fire alarms stopped, the orchestra of students	perform the overture tomorrow evening	82	2	1	non_initial_subject	SV-#
+eng_0082	eng	SG	When the fire alarms stopped, the orchestra of students	When the fire alarms stopped, the orchestras of students	performs the overture tomorrow evening	82	2	1	non_initial_subject	SV-#
+eng_0083	eng	PL	Because the grant ended, the libraries with the rare manuscripts	Because the grant ended, the library with the rare manuscripts	close their reading rooms early today	83	4	1	non_initial_subject	SV-#
+eng_0083	eng	SG	Because the grant ended, the library with the rare manuscripts	Because the grant ended, the libraries with the rare manuscripts	closes its reading room early today	83	4	1	non_initial_subject	SV-#
+eng_0084	eng	PL	The committee debated late into the night, but these datasets of satellite images	The committee debated late into the night, but this dataset of satellite images	reveal an unexpected pattern in the coastlines	84	3	1	non_initial_subject	SV-#
+eng_0084	eng	SG	The committee debated late into the night, but this dataset of satellite images	The committee debated late into the night, but these datasets of satellite images	reveals an unexpected pattern in the coastlines	84	3	1	non_initial_subject	SV-#
+eng_0085	eng	PL	If the inspector arrives early, paintings of the whales	If the inspector arrives early, a painting of the whales	hang in the main gallery	85	3	1	non_initial_subject	SV-#
+eng_0085	eng	SG	If the inspector arrives early, a painting of the whales	If the inspector arrives early, paintings of the whales	hangs in the main gallery	85	3	1	non_initial_subject	SV-#
+eng_0086	eng	PL	She called the office, and the foxes with a litter of pups	She called the office, and the fox with a litter of pups	chase the rabbits near the barn	86	5	1	non_initial_subject	SV-#
+eng_0086	eng	SG	She called the office, and the fox with a litter of pups	She called the office, and the foxes with a litter of pups	chases the rabbits near the barn	86	5	1	non_initial_subject	SV-#
+eng_0087	eng	PL	Although the highway was closed, these cars with the dented bumpers	Although the highway was closed, this car with the dented bumpers	block the intersection by the service station	87	4	1	non_initial_subject	SV-#
+eng_0087	eng	SG	Although the highway was closed, this car with the dented bumpers	Although the highway was closed, these cars with the dented bumpers	blocks the intersection by the service station	87	4	1	non_initial_subject	SV-#
+eng_0088	eng	PL	While the mayor toured the site, the policies with their lists of regulations	While the mayor toured the site, the policy with its lists of regulations	affect several local businesses	88	5	1	non_initial_subject	SV-#
+eng_0088	eng	SG	While the mayor toured the site, the policy with its lists of regulations	While the mayor toured the site, the policies with their lists of regulations	affects several local businesses	88	5	1	non_initial_subject	SV-#
+eng_0089	eng	PL	Since the paper circulated, the presidents with a cabinet of advisers	Since the paper circulated, the president with a cabinet of advisers	veto the proposed amendment	89	5	1	non_initial_subject	SV-#
+eng_0089	eng	SG	Since the paper circulated, the president with a cabinet of advisers	Since the paper circulated, the presidents with a cabinet of advisers	vetoes the proposed amendment	89	5	1	non_initial_subject	SV-#
+eng_0090	eng	PL	After the meeting, they already	After the meeting, he already	decide to postpone the vote.	90	2	0	pronoun_subject	SV-#
+eng_0090	eng	SG	After the meeting, he already	After the meeting, they already	decides to postpone the vote.	90	2	0	pronoun_subject	SV-#
+eng_0091	eng	PL	That night, they	That night, it	rage across the coast.	91	1	0	pronoun_subject	SV-#
+eng_0091	eng	SG	That night, it	That night, they	rages across the coast.	91	1	0	pronoun_subject	SV-#
+eng_0092	eng	PL	In the end, they really	In the end, she really	believe the settlement is fair.	92	2	0	pronoun_subject	SV-#
+eng_0092	eng	SG	In the end, she really	In the end, they really	believes the settlement is fair.	92	2	0	pronoun_subject	SV-#
+eng_0093	eng	PL	This morning, they still	This morning, it still	jam every time someone prints.	93	2	0	pronoun_subject	SV-#
+eng_0093	eng	SG	This morning, it still	This morning, they still	jams every time someone prints.	93	2	0	pronoun_subject	SV-#
+eng_0094	eng	PL	They	She	accept the invitation.	94	1	0	pronoun_subject	SV-#
+eng_0094	eng	SG	She	They	accepts the invitation.	94	1	0	pronoun_subject	SV-#
+eng_0095	eng	PL	Before dawn, they already	Before dawn, he already	have buried a bone in the yard.	95	2	0	pronoun_subject	SV-#
+eng_0095	eng	SG	Before dawn, he already	Before dawn, they already	has buried a bone in the yard.	95	2	0	pronoun_subject	SV-#
+eng_0096	eng	PL	Earlier, they quickly	Earlier, he quickly	notice the typo on the exam.	96	2	0	pronoun_subject	SV-#
+eng_0096	eng	SG	Earlier, he quickly	Earlier, they quickly	notices the typo on the exam.	96	2	0	pronoun_subject	SV-#
+eng_0097	eng	PL	For many years, they always	For many years, she always	enjoy the novel's ending.	97	2	0	pronoun_subject	SV-#
+eng_0097	eng	SG	For many years, she always	For many years, they always	enjoys the novel's ending.	97	2	0	pronoun_subject	SV-#
+eng_0098	eng	PL	In short, they	In short, it	appear unsolvable.	98	1	0	pronoun_subject	SV-#
+eng_0098	eng	SG	In short, it	In short, they	appears unsolvable.	98	1	0	pronoun_subject	SV-#
+eng_0099	eng	PL	During the meeting, they reluctantly	During the meeting, she reluctantly	leave before the cleanup is scheduled.	99	2	0	pronoun_subject	SV-#
+eng_0099	eng	SG	During the meeting, she reluctantly	During the meeting, they reluctantly	leaves before the cleanup is scheduled.	99	2	0	pronoun_subject	SV-#
